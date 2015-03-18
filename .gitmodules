@@ -1,0 +1,4 @@
+[submodule "web_build"]
+	path = web_build
+	url = git@github.com:AstromechZA/trains_experiment.git
+	branch = gh-pages
