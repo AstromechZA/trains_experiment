@@ -38,10 +38,13 @@ def clean_directory(path):
     print 'Clearing "%s" ..' % path
     for f in os.listdir(path):
         sub_path = os.path.join(path, f)
-        if not os.path.isdir(sub_path):
-            os.unlink(sub_path)
+        if f[0] != '.':
+            if not os.path.isdir(sub_path):
+                os.unlink(sub_path)
+            else:
+                clean_directory(sub_path)
         else:
-            clean_directory(sub_path)
+            print 'Skipping %s' % sub_path
 
 
 def clean_web_build():
