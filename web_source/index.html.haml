@@ -1,0 +1,15 @@
+%html
+  %head
+    %meta{charset: 'UTF-8'}
+    %link{rel: 'stylesheet', href: 'stylesheets/bootstrap.min.css'}
+    %link{rel: 'stylesheet', href: 'stylesheets/bootstrap-theme.min.css'}
+    %link{rel: 'stylesheet', href: 'stylesheets/main.css'}
+
+    %script{type: 'text/javascript', src: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyASm3CwaK9qtcZEWYa-iQwHaGi3gcosAJc&sensor=false'}
+    %script{type: 'text/javascript', src: 'javascripts/main.js'}
+  %body
+    .container-fluid
+      .row-fluid
+        .col-md-12
+          #map-wrapper
+            #map
