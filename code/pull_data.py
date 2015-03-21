@@ -5,8 +5,7 @@ import json
 import urllib
 import urllib2
 
-directory = os.path.dirname(os.path.abspath(__file__))
-data_dir = os.path.join(directory, 'osm_data')
+from constants import directory, data_dir
 
 def load_data(overpass_query):
     # format POST data string
@@ -14,8 +13,9 @@ def load_data(overpass_query):
     # build request object
     response = urllib2.urlopen(urllib2.Request('http://overpass-api.de/api/interpreter', data))
     # read response and parse into JSON
-    data = json.loads(response.read())
-    return data
+    plain_text = response.read()
+    print 'Downloaded %d bytes of JSON for query=%r' % (len(plain_text), overpass_query)
+    return json.loads(plain_text)
 
 def main():
     # ensure data dir exists
@@ -23,7 +23,7 @@ def main():
         os.makedirs(data_dir)
 
     # load rail data for cape town
-    rails_data = load_data('[out:json][timeout:25];(way["railway"="rail"](-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812););out body;>;out skel qt;')
+    rails_data = load_data('[out:json][timeout:25];(way["railway"](-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812);node["railway"="station"](-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812););out body;>;out skel qt;')
 
     # write it into data dir
     with open(os.path.join(data_dir, 'rail_data.json'), 'w') as f:
