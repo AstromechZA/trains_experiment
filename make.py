@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 
 """
 Compile haml, coffeescript and sass files from a source directory to an
@@ -70,6 +71,7 @@ def compile_files(subdir, ext, func):
                 file_in_path = os.path.join(subdir_in_path, f)
                 file_out_path = os.path.join(subdir_out_path, f[:(-len(ext))])
                 work(file_in_path, func, file_out_path)
+
 
 def copy_files(subdir, ext=None):
     subdir_in_path = os.path.join(web_source_dir, subdir)
