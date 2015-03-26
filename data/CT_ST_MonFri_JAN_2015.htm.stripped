@@ -1,0 +1,3525 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ProgId" content="Excel.Sheet">
+<meta name="Generator" content="Microsoft Excel 14">
+<link rel="File-List" href="http://www.capemetrorail.co.za/_timetables/2015_01_12/South/CT_ST_MonFri_JAN_2015_files/filelist.xml">
+<style id="DOCS_CMR3-#233196-v1-SOUTHERN_LINES_POCKET_TIME-TABLE___Current_Service_3398_Styles">
+
+</style>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<div id="DOCS_CMR3-#233196-v1-SOUTHERN_LINES_POCKET_TIME-TABLE___Current_Service_3398" x:publishsource="Excel" align="center">
+
+<table style="border-collapse:
+ collapse;table-layout:fixed;width:3596pt" width="4746" border="0" cellpadding="0" cellspacing="0">
+ <colgroup><col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="2" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="3" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;width:41pt" width="54">
+ <col class="xl1313398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="2" width="54">
+ <col class="xl1043398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;width:41pt" width="54">
+ <col class="xl1043398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="5" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="2" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="2" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="3" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;width:41pt" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;width:41pt" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="5" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="6" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="3" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="3" width="54">
+ <col class="xl1313398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl153398" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="2" width="54">
+ <col class="xl1043398" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="3" width="54">
+ <col class="xl1293398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:5010;width:103pt" width="137">
+ <col style="mso-width-source:userset;mso-width-alt:1974;
+ width:41pt" span="5" width="54">
+ <col class="xl153398" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl1313398" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="3" width="54">
+ <col style="mso-width-source:userset;mso-width-alt:2230;width:46pt" width="61">
+ </colgroup><tbody><tr style="height:18.75pt" height="25">
+  <td class="xl1603398" style="height:18.75pt;width:103pt" height="25" width="137"><a name="RANGE!A1:BY43">&nbsp;</a></td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1683398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1683398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1683398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1683398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1683398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1743398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl993398" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1003398" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1343398" style="width:46pt" width="61">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl883398" style="height:18.0pt" height="24">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl743398"></td>
+  <td class="xl1613398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1613398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1613398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1613398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1613398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1753398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398" colspan="8">CAPE TOWN - WYNBERG - SIMON`S TOWN</td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl883398" style="height:18.0pt" height="24">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1053398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1053398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1053398"></td>
+  <td class="xl1053398"></td>
+  <td class="xl1053398"></td>
+  <td class="xl1763398">&nbsp;</td>
+  <td class="xl883398" style="border-left:none">&nbsp;</td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl653398"></td>
+  <td class="xl1353398">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl883398" style="height:18.0pt" height="24">MONDAYS TO <span style="display:none">FRIDAYS</span></td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl1063398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1063398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1483398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1063398">&nbsp;</td>
+  <td class="xl1063398">&nbsp;</td>
+  <td class="xl1063398">&nbsp;</td>
+  <td class="xl1773398">&nbsp;</td>
+  <td class="xl1013398" colspan="3">MONDAYS TO FRIDAYS</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1573398">&nbsp;</td>
+  <td class="xl1573398">&nbsp;</td>
+  <td class="xl1593398">&nbsp;</td>
+  <td class="xl873398">&nbsp;</td>
+  <td class="xl1593398">&nbsp;</td>
+  <td class="xl1593398">&nbsp;</td>
+  <td class="xl1363398">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl1623398" style="height:18.0pt" height="24">CAPE TOWN</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl1263398" style="border-left:none">&nbsp;</td>
+  <td class="xl1633398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl793398" style="border-left:none">CAPE TOWN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1073398" style="border-top:none">&nbsp;</td>
+  <td class="xl693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1073398" style="border-top:none">&nbsp;</td>
+  <td class="xl693398" style="border-left:none">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1423398">&nbsp;</td>
+  <td class="xl903398" style="border-top:none;border-left:none">CAPE TOWN</td>
+  <td class="xl1223398" style="border-top:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl903398" style="border-top:none;border-left:none">CAPE TOWN</td>
+  <td class="xl943398">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1233398" style="border-top:none">&nbsp;</td>
+  <td class="xl1463398" style="border-top:none">&nbsp;</td>
+  <td class="xl1623398" style="border-top:none;border-left:none">CAPE TOWN</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1243398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1463398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl793398" style="border-left:none">CAPE TOWN</td>
+  <td class="xl1223398" style="border-top:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1263398" style="border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1073398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1073398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl943398" style="border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl793398" style="border-left:none">CAPE TOWN</td>
+  <td class="xl943398">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1263398" style="border-left:none">&nbsp;</td>
+  <td class="xl1263398" style="border-left:none">&nbsp;</td>
+  <td class="xl1223398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1783398" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="mso-height-source:userset;height:18.0pt" height="24">
+  <td class="xl803398" style="height:18.0pt" height="24">PLATFORM NO.</td>
+  <td class="xl673398">2</td>
+  <td class="xl673398" style="border-left:none">3</td>
+  <td class="xl673398" style="border-left:none">4</td>
+  <td class="xl673398" style="border-left:none">1</td>
+  <td class="xl673398" style="border-left:none">7</td>
+  <td class="xl673398" style="border-left:none">3</td>
+  <td class="xl673398" style="border-left:none">6</td>
+  <td class="xl673398" style="border-left:none">4</td>
+  <td class="xl673398" style="border-left:none">7</td>
+  <td class="xl1473398" style="border-left:none">5</td>
+  <td class="xl803398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl783398">2</td>
+  <td class="xl783398">4</td>
+  <td class="xl1083398">6</td>
+  <td class="xl783398">3</td>
+  <td class="xl1083398">1</td>
+  <td class="xl783398">6</td>
+  <td class="xl783398">4</td>
+  <td class="xl783398">2</td>
+  <td class="xl783398">5</td>
+  <td class="xl1473398">4</td>
+  <td class="xl803398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl923398">6</td>
+  <td class="xl923398" style="border-left:none">1</td>
+  <td class="xl923398" style="border-left:none">&nbsp;</td>
+  <td class="xl923398" style="border-left:none">6</td>
+  <td class="xl923398" style="border-left:none">5</td>
+  <td class="xl923398" style="border-left:none">&nbsp;</td>
+  <td class="xl923398" style="border-left:none">5</td>
+  <td class="xl923398" style="border-left:none">6</td>
+  <td class="xl923398" style="border-left:none">4</td>
+  <td class="xl923398" style="border-left:none">&nbsp;</td>
+  <td class="xl803398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl783398">1</td>
+  <td class="xl783398">4</td>
+  <td class="xl783398">5</td>
+  <td class="xl783398">&nbsp;</td>
+  <td class="xl783398">4</td>
+  <td class="xl783398">5</td>
+  <td class="xl783398">6</td>
+  <td class="xl783398">5</td>
+  <td class="xl783398">4</td>
+  <td class="xl1473398">6</td>
+  <td class="xl1723398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl933398" style="border-left:none">3</td>
+  <td class="xl933398" style="border-left:none">2</td>
+  <td class="xl933398" style="border-left:none">1</td>
+  <td class="xl933398" style="border-left:none">6</td>
+  <td class="xl933398" style="border-left:none">4</td>
+  <td class="xl933398" style="border-left:none">5</td>
+  <td class="xl933398" style="border-left:none">6</td>
+  <td class="xl933398" style="border-left:none">7</td>
+  <td class="xl933398" style="border-left:none">4</td>
+  <td class="xl1733398" style="border-left:none">6</td>
+  <td class="xl1673398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl913398">3</td>
+  <td class="xl913398" style="border-left:none">2</td>
+  <td class="xl913398" style="border-left:none">5</td>
+  <td class="xl913398" style="border-left:none">6</td>
+  <td class="xl913398" style="border-left:none">3</td>
+  <td class="xl913398" style="border-left:none">2</td>
+  <td class="xl1113398" style="border-left:none">5</td>
+  <td class="xl1113398" style="border-left:none">4</td>
+  <td class="xl1113398" style="border-left:none">1</td>
+  <td class="xl913398" style="border-left:none">6</td>
+  <td class="xl1793398" style="border-left:none">PLATFORM NO.</td>
+  <td class="xl913398" style="border-left:none">3</td>
+  <td class="xl913398" style="border-left:none">5</td>
+  <td class="xl913398" style="border-left:none">3</td>
+  <td class="xl913398" style="border-left:none">4</td>
+  <td class="xl913398" style="border-left:none">&nbsp;</td>
+  <td class="xl913398" style="border-left:none">6</td>
+  <td class="xl913398" style="border-left:none">5</td>
+  <td class="xl913398" style="border-left:none">3</td>
+  <td class="xl913398" style="border-left:none">5</td>
+  <td class="xl1733398" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1643398" style="border-top:none">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1093398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1093398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl1133398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1093398">&nbsp;</td>
+  <td class="xl1093398">&nbsp;</td>
+  <td class="xl1093398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl663398">&nbsp;</td>
+  <td class="xl1373398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl833398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0101</td>
+  <td class="xl773398">0103</td>
+  <td class="xl773398">0105</td>
+  <td class="xl773398">0107</td>
+  <td class="xl773398">0109</td>
+  <td class="xl773398">0111</td>
+  <td class="xl773398">0113</td>
+  <td class="xl773398">0115</td>
+  <td class="xl773398">0117</td>
+  <td class="xl1383398">0119</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0121</td>
+  <td class="xl773398">0123</td>
+  <td class="xl763398">0125</td>
+  <td class="xl773398">0127</td>
+  <td class="xl763398">0129</td>
+  <td class="xl773398">0131</td>
+  <td class="xl773398">0133</td>
+  <td class="xl773398">0135</td>
+  <td class="xl773398">0137</td>
+  <td class="xl1383398">0139</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0141</td>
+  <td class="xl773398">0143</td>
+  <td class="xl773398">&nbsp;</td>
+  <td class="xl773398">0147</td>
+  <td class="xl773398">0149</td>
+  <td class="xl773398">&nbsp;</td>
+  <td class="xl773398">0153</td>
+  <td class="xl773398">0155</td>
+  <td class="xl773398">0157</td>
+  <td class="xl1383398">&nbsp;</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0161</td>
+  <td class="xl773398">0163</td>
+  <td class="xl773398">0165</td>
+  <td class="xl773398">&nbsp;</td>
+  <td class="xl773398">0169</td>
+  <td class="xl773398">0171</td>
+  <td class="xl773398">0173</td>
+  <td class="xl773398">0175</td>
+  <td class="xl773398">0177</td>
+  <td class="xl1383398">0179</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0181</td>
+  <td class="xl773398">0183</td>
+  <td class="xl773398">0185</td>
+  <td class="xl773398">0187</td>
+  <td class="xl773398">0189</td>
+  <td class="xl773398">0191</td>
+  <td class="xl773398">0193</td>
+  <td class="xl773398">0195</td>
+  <td class="xl773398">0197</td>
+  <td class="xl1383398">0199</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0201</td>
+  <td class="xl773398">0203</td>
+  <td class="xl773398">0205</td>
+  <td class="xl773398">0207</td>
+  <td class="xl773398">0209</td>
+  <td class="xl773398">0211</td>
+  <td class="xl763398">0213</td>
+  <td class="xl763398">0215</td>
+  <td class="xl763398">0217</td>
+  <td class="xl1383398">0219</td>
+  <td class="xl833398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl773398">0221</td>
+  <td class="xl773398">0223</td>
+  <td class="xl773398">0225</td>
+  <td class="xl773398">0227</td>
+  <td class="xl1453398">&nbsp;</td>
+  <td class="xl773398">0229</td>
+  <td class="xl773398">0231</td>
+  <td class="xl773398">0233</td>
+  <td class="xl773398">0235</td>
+  <td class="xl1383398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.0pt" height="20">
+  <td class="xl813398" style="height:15.0pt" height="20">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl1023398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1193398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1193398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl1023398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1133398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1133398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1193398">&nbsp;</td>
+  <td class="xl1193398">&nbsp;</td>
+  <td class="xl1193398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl863398">&nbsp;</td>
+  <td class="xl1393398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">05:10 </td>
+  <td class="xl703398">05:25 </td>
+  <td class="xl703398">05:42 </td>
+  <td class="xl703398">05:50 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:10 </td>
+  <td class="xl703398">06:16 </td>
+  <td class="xl703398">06:27 </td>
+  <td class="xl703398">06:34 </td>
+  <td class="xl1403398">06:44 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">06:51 </td>
+  <td class="xl703398">07:01 </td>
+  <td class="xl1143398">07:07 </td>
+  <td class="xl703398">07:16 </td>
+  <td class="xl1143398">07:22 </td>
+  <td class="xl703398">07:32 </td>
+  <td class="xl703398">07:38 </td>
+  <td class="xl703398">07:46 </td>
+  <td class="xl703398">07:55 </td>
+  <td class="xl1403398">08:09 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">08:23 </td>
+  <td class="xl703398">08:40 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:11 </td>
+  <td class="xl703398">09:32 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:23 </td>
+  <td class="xl703398">10:48 </td>
+  <td class="xl703398">11:20 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">12:00 </td>
+  <td class="xl703398">12:20 </td>
+  <td class="xl703398">12:40 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:18 </td>
+  <td class="xl703398">13:43 </td>
+  <td class="xl703398">13:57 </td>
+  <td class="xl703398">14:10 </td>
+  <td class="xl703398">14:26 </td>
+  <td class="xl1403398">14:37 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">14:44 </td>
+  <td class="xl703398">14:52 </td>
+  <td class="xl703398">15:06 </td>
+  <td class="xl703398">15:23 </td>
+  <td class="xl703398">15:36 </td>
+  <td class="xl703398">15:50 </td>
+  <td class="xl703398">16:00 </td>
+  <td class="xl703398">16:12 </td>
+  <td class="xl703398">16:18 </td>
+  <td class="xl1403398">16:24 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">16:32 </td>
+  <td class="xl703398">16:43 </td>
+  <td class="xl703398">16:56 </td>
+  <td class="xl703398">17:02 </td>
+  <td class="xl703398">17:15 </td>
+  <td class="xl703398">17:21 </td>
+  <td class="xl1143398">17:33 </td>
+  <td class="xl1143398">17:40 </td>
+  <td class="xl703398">17:48 </td>
+  <td class="xl1403398">17:59 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl703398">18:14 </td>
+  <td class="xl703398">18:26 </td>
+  <td class="xl703398">18:40 </td>
+  <td class="xl703398">18:58 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:30 </td>
+  <td class="xl703398">20:05 </td>
+  <td class="xl703398">20:30 </td>
+  <td class="xl703398">21:15 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">05:13 </td>
+  <td class="xl703398">05:28 </td>
+  <td class="xl703398">05:45 </td>
+  <td class="xl703398">05:53 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:13 </td>
+  <td class="xl703398">06:19 </td>
+  <td class="xl703398">06:30 </td>
+  <td class="xl703398">06:37 </td>
+  <td class="xl1403398">06:47 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">06:54 </td>
+  <td class="xl703398">07:04 </td>
+  <td class="xl1143398">07:10 </td>
+  <td class="xl703398">07:19 </td>
+  <td class="xl1143398">07:25 </td>
+  <td class="xl703398">07:35 </td>
+  <td class="xl703398">07:41 </td>
+  <td class="xl703398">07:49 </td>
+  <td class="xl703398">07:58 </td>
+  <td class="xl1403398">08:12 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">08:26 </td>
+  <td class="xl703398">08:43 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:14 </td>
+  <td class="xl703398">09:35 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:26 </td>
+  <td class="xl703398">10:51 </td>
+  <td class="xl703398">11:23 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">12:03 </td>
+  <td class="xl703398">12:23 </td>
+  <td class="xl703398">12:43 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:21 </td>
+  <td class="xl703398">13:46 </td>
+  <td class="xl703398">14:00 </td>
+  <td class="xl703398">14:13 </td>
+  <td class="xl703398">14:29 </td>
+  <td class="xl1403398">14:40 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">14:47 </td>
+  <td class="xl703398">14:55 </td>
+  <td class="xl703398">15:09 </td>
+  <td class="xl703398">15:26 </td>
+  <td class="xl703398">15:39 </td>
+  <td class="xl703398">15:53 </td>
+  <td class="xl703398">16:03 </td>
+  <td class="xl703398">16:15 </td>
+  <td class="xl703398">16:21 </td>
+  <td class="xl1403398">16:27 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">16:35 </td>
+  <td class="xl703398">16:46 </td>
+  <td class="xl703398">16:59 </td>
+  <td class="xl703398">17:05 </td>
+  <td class="xl703398">17:18 </td>
+  <td class="xl703398">17:24 </td>
+  <td class="xl1143398">17:36 </td>
+  <td class="xl1143398">17:43 </td>
+  <td class="xl703398">17:51 </td>
+  <td class="xl1403398">18:02 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl703398">18:17 </td>
+  <td class="xl703398">18:29 </td>
+  <td class="xl703398">18:43 </td>
+  <td class="xl703398">19:01 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:33 </td>
+  <td class="xl703398">20:08 </td>
+  <td class="xl703398">20:33 </td>
+  <td class="xl703398">21:18 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">05:16 </td>
+  <td class="xl703398">05:31 </td>
+  <td class="xl703398">05:48 </td>
+  <td class="xl703398">05:56 </td>
+  <td class="xl843398">Via</td>
+  <td class="xl703398">06:16 </td>
+  <td class="xl703398">06:22 </td>
+  <td class="xl703398">06:33 </td>
+  <td class="xl703398">06:40 </td>
+  <td class="xl1403398">06:50 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">06:57 </td>
+  <td class="xl703398">07:07 </td>
+  <td class="xl1143398">07:13 </td>
+  <td class="xl703398">07:22 </td>
+  <td class="xl1143398">07:28 </td>
+  <td class="xl703398">07:38 </td>
+  <td class="xl703398">07:44 </td>
+  <td class="xl703398">07:52 </td>
+  <td class="xl703398">08:01 </td>
+  <td class="xl1403398">08:15 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">08:29 </td>
+  <td class="xl703398">08:46 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:17 </td>
+  <td class="xl703398">09:38 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:29 </td>
+  <td class="xl703398">10:54 </td>
+  <td class="xl703398">11:26 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">12:06 </td>
+  <td class="xl703398">12:26 </td>
+  <td class="xl703398">12:46 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:24 </td>
+  <td class="xl703398">13:49 </td>
+  <td class="xl703398">14:03 </td>
+  <td class="xl703398">14:16 </td>
+  <td class="xl703398">14:32 </td>
+  <td class="xl1403398">14:43 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">14:50 </td>
+  <td class="xl703398">14:58 </td>
+  <td class="xl703398">15:12 </td>
+  <td class="xl703398">15:29 </td>
+  <td class="xl703398">15:42 </td>
+  <td class="xl703398">15:56 </td>
+  <td class="xl703398">16:06 </td>
+  <td class="xl703398">16:18 </td>
+  <td class="xl703398">16:24 </td>
+  <td class="xl1403398">16:30 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">16:38 </td>
+  <td class="xl703398">16:49 </td>
+  <td class="xl703398">17:02 </td>
+  <td class="xl703398">17:08 </td>
+  <td class="xl703398">17:21 </td>
+  <td class="xl703398">17:27 </td>
+  <td class="xl703398">17:39 </td>
+  <td class="xl1143398">17:46 </td>
+  <td class="xl703398">17:54 </td>
+  <td class="xl1403398">18:05 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl703398">18:20 </td>
+  <td class="xl703398">18:32 </td>
+  <td class="xl703398">18:46 </td>
+  <td class="xl703398">19:04 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:36 </td>
+  <td class="xl703398">20:11 </td>
+  <td class="xl703398">20:36 </td>
+  <td class="xl703398">21:21 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">05:19 </td>
+  <td class="xl703398">05:34 </td>
+  <td class="xl703398">05:51 </td>
+  <td class="xl703398">05:59 </td>
+  <td class="xl843398">&nbsp;</td>
+  <td class="xl703398">06:19 </td>
+  <td class="xl703398">06:25 </td>
+  <td class="xl703398">06:36 </td>
+  <td class="xl703398">06:43 </td>
+  <td class="xl1403398">06:53 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">07:00 </td>
+  <td class="xl703398">07:10 </td>
+  <td class="xl1143398">07:16 </td>
+  <td class="xl703398">07:25 </td>
+  <td class="xl1143398">07:31 </td>
+  <td class="xl703398">07:41 </td>
+  <td class="xl703398">07:47 </td>
+  <td class="xl703398">07:55 </td>
+  <td class="xl703398">08:04 </td>
+  <td class="xl1403398">08:18 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">08:32 </td>
+  <td class="xl703398">08:49 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:20 </td>
+  <td class="xl703398">09:41 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:32 </td>
+  <td class="xl703398">10:57 </td>
+  <td class="xl703398">11:29 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">12:09 </td>
+  <td class="xl703398">12:29 </td>
+  <td class="xl703398">12:49 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:27 </td>
+  <td class="xl703398">13:52 </td>
+  <td class="xl703398">14:06 </td>
+  <td class="xl703398">14:19 </td>
+  <td class="xl703398">14:35 </td>
+  <td class="xl1403398">14:46 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">14:53 </td>
+  <td class="xl703398">15:01 </td>
+  <td class="xl703398">15:15 </td>
+  <td class="xl703398">15:32 </td>
+  <td class="xl703398">15:45 </td>
+  <td class="xl703398">15:59 </td>
+  <td class="xl703398">16:09 </td>
+  <td class="xl703398">16:21 </td>
+  <td class="xl703398">16:27 </td>
+  <td class="xl1403398">16:33 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">16:41 </td>
+  <td class="xl703398">16:52 </td>
+  <td class="xl703398">17:05 </td>
+  <td class="xl703398">17:11 </td>
+  <td class="xl703398">17:24 </td>
+  <td class="xl703398">17:30 </td>
+  <td class="xl703398">17:42 </td>
+  <td class="xl1143398">17:49 </td>
+  <td class="xl703398">17:57 </td>
+  <td class="xl1403398">18:08 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl703398">18:23 </td>
+  <td class="xl703398">18:35 </td>
+  <td class="xl703398">18:49 </td>
+  <td class="xl703398">19:07 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:39 </td>
+  <td class="xl703398">20:14 </td>
+  <td class="xl703398">20:39 </td>
+  <td class="xl703398">21:24 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">05:21 </td>
+  <td class="xl703398">05:36 </td>
+  <td class="xl703398">05:53 </td>
+  <td class="xl703398">06:01 </td>
+  <td class="xl843398">Cape</td>
+  <td class="xl703398">06:21 </td>
+  <td class="xl703398">06:27 </td>
+  <td class="xl703398">06:38 </td>
+  <td class="xl703398">06:45 </td>
+  <td class="xl1403398">06:55 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">07:02 </td>
+  <td class="xl703398">07:12 </td>
+  <td class="xl1143398">07:18 </td>
+  <td class="xl703398">07:27 </td>
+  <td class="xl1143398">07:33 </td>
+  <td class="xl703398">07:43 </td>
+  <td class="xl703398">07:49 </td>
+  <td class="xl703398">07:57 </td>
+  <td class="xl703398">08:06 </td>
+  <td class="xl1403398">08:20 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">08:34 </td>
+  <td class="xl703398">08:51 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:22 </td>
+  <td class="xl703398">09:43 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:34 </td>
+  <td class="xl703398">10:59 </td>
+  <td class="xl703398">11:31 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">12:11 </td>
+  <td class="xl703398">12:31 </td>
+  <td class="xl703398">12:51 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:29 </td>
+  <td class="xl703398">13:54 </td>
+  <td class="xl703398">14:08 </td>
+  <td class="xl703398">14:21 </td>
+  <td class="xl703398">14:37 </td>
+  <td class="xl1403398">14:48 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">14:55 </td>
+  <td class="xl703398">15:03 </td>
+  <td class="xl703398">15:17 </td>
+  <td class="xl703398">15:34 </td>
+  <td class="xl703398">15:47 </td>
+  <td class="xl703398">16:01 </td>
+  <td class="xl703398">16:11 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:29 </td>
+  <td class="xl1403398">16:35 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">16:43 </td>
+  <td class="xl703398">16:54 </td>
+  <td class="xl703398">17:07 </td>
+  <td class="xl703398">17:13 </td>
+  <td class="xl703398">17:26 </td>
+  <td class="xl703398">17:32 </td>
+  <td class="xl703398">17:44 </td>
+  <td class="xl1143398">17:51 </td>
+  <td class="xl703398">17:59 </td>
+  <td class="xl1403398">18:10 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl703398">18:25 </td>
+  <td class="xl703398">18:37 </td>
+  <td class="xl703398">18:51 </td>
+  <td class="xl703398">19:09 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:41 </td>
+  <td class="xl703398">20:16 </td>
+  <td class="xl703398">20:41 </td>
+  <td class="xl703398">21:26 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">05:23 </td>
+  <td class="xl703398">05:38 </td>
+  <td class="xl703398">05:55 </td>
+  <td class="xl703398">06:03 </td>
+  <td class="xl853398">&nbsp;</td>
+  <td class="xl703398">06:23 </td>
+  <td class="xl703398">06:29 </td>
+  <td class="xl703398">06:40 </td>
+  <td class="xl703398">06:47 </td>
+  <td class="xl1403398">06:57 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">07:04 </td>
+  <td class="xl703398">07:14 </td>
+  <td class="xl1143398">07:20 </td>
+  <td class="xl703398">07:29 </td>
+  <td class="xl1143398">07:35 </td>
+  <td class="xl703398">07:45 </td>
+  <td class="xl703398">07:51 </td>
+  <td class="xl703398">07:59 </td>
+  <td class="xl703398">08:08 </td>
+  <td class="xl1403398">08:22 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">08:36 </td>
+  <td class="xl703398">08:53 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:24 </td>
+  <td class="xl703398">09:45 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:36 </td>
+  <td class="xl703398">11:01 </td>
+  <td class="xl703398">11:33 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">12:13 </td>
+  <td class="xl703398">12:33 </td>
+  <td class="xl703398">12:53 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:31 </td>
+  <td class="xl703398">13:56 </td>
+  <td class="xl703398">14:10 </td>
+  <td class="xl703398">14:23 </td>
+  <td class="xl703398">14:39 </td>
+  <td class="xl1403398">14:50 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">14:57 </td>
+  <td class="xl703398">15:05 </td>
+  <td class="xl703398">15:19 </td>
+  <td class="xl703398">15:36 </td>
+  <td class="xl703398">15:49 </td>
+  <td class="xl703398">16:03 </td>
+  <td class="xl703398">16:13 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:31 </td>
+  <td class="xl1403398">16:37 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">16:45 </td>
+  <td class="xl703398">16:56 </td>
+  <td class="xl703398">17:09 </td>
+  <td class="xl703398">17:15 </td>
+  <td class="xl703398">17:28 </td>
+  <td class="xl703398">17:34 </td>
+  <td class="xl703398">17:46 </td>
+  <td class="xl1143398">17:53 </td>
+  <td class="xl703398">18:01 </td>
+  <td class="xl1403398">18:12 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl703398">18:27 </td>
+  <td class="xl703398">18:39 </td>
+  <td class="xl703398">18:53 </td>
+  <td class="xl703398">19:11 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:43 </td>
+  <td class="xl703398">20:18 </td>
+  <td class="xl703398">20:43 </td>
+  <td class="xl703398">21:28 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">05:25 </td>
+  <td class="xl703398">05:40 </td>
+  <td class="xl703398">05:57 </td>
+  <td class="xl703398">06:05 </td>
+  <td class="xl843398">Flats</td>
+  <td class="xl703398">06:25 </td>
+  <td class="xl703398">06:31 </td>
+  <td class="xl703398">06:42 </td>
+  <td class="xl703398">06:49 </td>
+  <td class="xl1403398">06:59 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">07:06 </td>
+  <td class="xl703398">07:16 </td>
+  <td class="xl1143398">07:22 </td>
+  <td class="xl703398">07:31 </td>
+  <td class="xl1143398">07:37 </td>
+  <td class="xl703398">07:47 </td>
+  <td class="xl703398">07:53 </td>
+  <td class="xl703398">08:01 </td>
+  <td class="xl703398">08:10 </td>
+  <td class="xl1403398">08:24 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">08:38 </td>
+  <td class="xl703398">08:55 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:26 </td>
+  <td class="xl703398">09:47 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:38 </td>
+  <td class="xl703398">11:03 </td>
+  <td class="xl703398">11:35 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">12:15 </td>
+  <td class="xl703398">12:35 </td>
+  <td class="xl703398">12:55 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:33 </td>
+  <td class="xl703398">13:58 </td>
+  <td class="xl703398">14:12 </td>
+  <td class="xl703398">14:25 </td>
+  <td class="xl703398">14:41 </td>
+  <td class="xl1403398">14:52 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">14:59 </td>
+  <td class="xl703398">15:07 </td>
+  <td class="xl703398">15:21 </td>
+  <td class="xl703398">15:38 </td>
+  <td class="xl703398">15:51 </td>
+  <td class="xl703398">16:05 </td>
+  <td class="xl703398">16:15 </td>
+  <td class="xl703398">16:26 </td>
+  <td class="xl703398">16:33 </td>
+  <td class="xl1403398">16:39 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">16:47 </td>
+  <td class="xl703398">16:58 </td>
+  <td class="xl703398">17:11 </td>
+  <td class="xl703398">17:17 </td>
+  <td class="xl703398">17:30 </td>
+  <td class="xl703398">17:36 </td>
+  <td class="xl703398">17:48 </td>
+  <td class="xl1143398">17:55 </td>
+  <td class="xl703398">18:03 </td>
+  <td class="xl1403398">18:14 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl703398">18:29 </td>
+  <td class="xl703398">18:41 </td>
+  <td class="xl703398">18:55 </td>
+  <td class="xl703398">19:13 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:45 </td>
+  <td class="xl703398">20:20 </td>
+  <td class="xl703398">20:45 </td>
+  <td class="xl703398">21:30 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">05:28 </td>
+  <td class="xl703398">05:43 </td>
+  <td class="xl703398">06:00 </td>
+  <td class="xl703398">06:08 </td>
+  <td class="xl853398">&nbsp;</td>
+  <td class="xl703398">06:28 </td>
+  <td class="xl703398">06:34 </td>
+  <td class="xl703398">06:45 </td>
+  <td class="xl703398">06:52 </td>
+  <td class="xl1403398">07:02 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">07:09 </td>
+  <td class="xl703398">07:19 </td>
+  <td class="xl1143398">07:25 </td>
+  <td class="xl703398">07:34 </td>
+  <td class="xl1143398">07:40 </td>
+  <td class="xl703398">07:50 </td>
+  <td class="xl703398">07:56 </td>
+  <td class="xl703398">08:04 </td>
+  <td class="xl703398">08:13 </td>
+  <td class="xl1403398">08:27 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">08:41 </td>
+  <td class="xl703398">08:58 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:29 </td>
+  <td class="xl703398">09:50 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:41 </td>
+  <td class="xl703398">11:06 </td>
+  <td class="xl703398">11:38 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">12:18 </td>
+  <td class="xl703398">12:38 </td>
+  <td class="xl703398">12:58 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:36 </td>
+  <td class="xl703398">14:01 </td>
+  <td class="xl703398">14:15 </td>
+  <td class="xl703398">14:28 </td>
+  <td class="xl703398">14:44 </td>
+  <td class="xl1403398">14:55 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">15:02 </td>
+  <td class="xl703398">15:10 </td>
+  <td class="xl703398">15:24 </td>
+  <td class="xl703398">15:41 </td>
+  <td class="xl703398">15:54 </td>
+  <td class="xl703398">16:08 </td>
+  <td class="xl703398">16:18 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:36 </td>
+  <td class="xl1403398">16:42 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">16:50 </td>
+  <td class="xl703398">17:01 </td>
+  <td class="xl703398">17:14 </td>
+  <td class="xl703398">17:20 </td>
+  <td class="xl703398">17:33 </td>
+  <td class="xl703398">17:39 </td>
+  <td class="xl703398">17:51 </td>
+  <td class="xl1143398">17:58 </td>
+  <td class="xl703398">18:06 </td>
+  <td class="xl1403398">18:17 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl703398">18:32 </td>
+  <td class="xl703398">18:44 </td>
+  <td class="xl703398">18:58 </td>
+  <td class="xl703398">19:16 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:48 </td>
+  <td class="xl703398">20:23 </td>
+  <td class="xl703398">20:48 </td>
+  <td class="xl703398">21:33 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">05:30 </td>
+  <td class="xl703398">05:45 </td>
+  <td class="xl703398">06:02 </td>
+  <td class="xl703398">06:10 </td>
+  <td class="xl843398">Line</td>
+  <td class="xl703398">06:30 </td>
+  <td class="xl703398">06:36 </td>
+  <td class="xl703398">06:47 </td>
+  <td class="xl703398">06:54 </td>
+  <td class="xl1403398">07:04 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">07:11 </td>
+  <td class="xl703398">07:21 </td>
+  <td class="xl1143398">07:27 </td>
+  <td class="xl703398">07:36 </td>
+  <td class="xl1143398">07:42 </td>
+  <td class="xl703398">07:52 </td>
+  <td class="xl703398">07:58 </td>
+  <td class="xl703398">08:06 </td>
+  <td class="xl703398">08:15 </td>
+  <td class="xl1403398">08:29 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">08:43 </td>
+  <td class="xl703398">09:00 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:31 </td>
+  <td class="xl703398">09:52 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:43 </td>
+  <td class="xl703398">11:08 </td>
+  <td class="xl703398">11:40 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">12:20 </td>
+  <td class="xl703398">12:40 </td>
+  <td class="xl703398">13:00 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:38 </td>
+  <td class="xl703398">14:03 </td>
+  <td class="xl703398">14:17 </td>
+  <td class="xl703398">14:30 </td>
+  <td class="xl703398">14:46 </td>
+  <td class="xl1403398">14:57 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">15:04 </td>
+  <td class="xl703398">15:12 </td>
+  <td class="xl703398">15:26 </td>
+  <td class="xl703398">15:43 </td>
+  <td class="xl703398">15:56 </td>
+  <td class="xl703398">16:10 </td>
+  <td class="xl703398">16:20 </td>
+  <td class="xl703398">16:29 </td>
+  <td class="xl703398">16:38 </td>
+  <td class="xl1403398">16:44 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">16:52 </td>
+  <td class="xl703398">17:03 </td>
+  <td class="xl703398">17:16 </td>
+  <td class="xl703398">17:22 </td>
+  <td class="xl703398">17:35 </td>
+  <td class="xl703398">17:41 </td>
+  <td class="xl703398">17:53 </td>
+  <td class="xl1143398">18:00 </td>
+  <td class="xl703398">18:08 </td>
+  <td class="xl1403398">18:19 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl703398">18:34 </td>
+  <td class="xl703398">18:46 </td>
+  <td class="xl703398">19:00 </td>
+  <td class="xl703398">19:18 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:50 </td>
+  <td class="xl703398">20:25 </td>
+  <td class="xl703398">20:50 </td>
+  <td class="xl703398">21:35 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">05:32 </td>
+  <td class="xl703398">05:47 </td>
+  <td class="xl703398">06:04 </td>
+  <td class="xl703398">06:12 </td>
+  <td class="xl853398">&nbsp;</td>
+  <td class="xl703398">06:32 </td>
+  <td class="xl703398">06:38 </td>
+  <td class="xl703398">06:49 </td>
+  <td class="xl703398">06:56 </td>
+  <td class="xl1403398">07:06 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">07:13 </td>
+  <td class="xl703398">07:23 </td>
+  <td class="xl1143398">07:29 </td>
+  <td class="xl703398">07:38 </td>
+  <td class="xl1143398">07:44 </td>
+  <td class="xl703398">07:54 </td>
+  <td class="xl703398">08:00 </td>
+  <td class="xl703398">08:08 </td>
+  <td class="xl703398">08:17 </td>
+  <td class="xl1403398">08:31 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">08:45 </td>
+  <td class="xl703398">09:02 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:33 </td>
+  <td class="xl703398">09:54 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:45 </td>
+  <td class="xl703398">11:10 </td>
+  <td class="xl703398">11:42 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">12:22 </td>
+  <td class="xl703398">12:42 </td>
+  <td class="xl703398">13:02 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:40 </td>
+  <td class="xl703398">14:05 </td>
+  <td class="xl703398">14:19 </td>
+  <td class="xl703398">14:32 </td>
+  <td class="xl703398">14:48 </td>
+  <td class="xl1403398">14:59 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">15:06 </td>
+  <td class="xl703398">15:14 </td>
+  <td class="xl703398">15:28 </td>
+  <td class="xl703398">15:45 </td>
+  <td class="xl703398">15:58 </td>
+  <td class="xl703398">16:12 </td>
+  <td class="xl703398">16:22 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:40 </td>
+  <td class="xl1403398">16:46 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">16:54 </td>
+  <td class="xl703398">17:05 </td>
+  <td class="xl703398">17:18 </td>
+  <td class="xl703398">17:24 </td>
+  <td class="xl703398">17:37 </td>
+  <td class="xl703398">17:43 </td>
+  <td class="xl703398">17:55 </td>
+  <td class="xl1143398">18:02 </td>
+  <td class="xl703398">18:10 </td>
+  <td class="xl1403398">18:21 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl703398">18:36 </td>
+  <td class="xl703398">18:48 </td>
+  <td class="xl703398">19:02 </td>
+  <td class="xl703398">19:20 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:52 </td>
+  <td class="xl703398">20:27 </td>
+  <td class="xl703398">20:52 </td>
+  <td class="xl703398">21:37 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">05:34 </td>
+  <td class="xl703398">05:49 </td>
+  <td class="xl703398">06:06 </td>
+  <td class="xl703398">06:14 </td>
+  <td class="xl843398">To</td>
+  <td class="xl703398">06:34 </td>
+  <td class="xl703398">06:40 </td>
+  <td class="xl703398">06:51 </td>
+  <td class="xl703398">06:58 </td>
+  <td class="xl1403398">07:08 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">07:15 </td>
+  <td class="xl703398">07:25 </td>
+  <td class="xl1143398">07:31 </td>
+  <td class="xl703398">07:40 </td>
+  <td class="xl1143398">07:46 </td>
+  <td class="xl703398">07:56 </td>
+  <td class="xl703398">08:02 </td>
+  <td class="xl703398">08:10 </td>
+  <td class="xl703398">08:19 </td>
+  <td class="xl1403398">08:33 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">08:47 </td>
+  <td class="xl703398">09:04 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:35 </td>
+  <td class="xl703398">09:56 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:47 </td>
+  <td class="xl703398">11:12 </td>
+  <td class="xl703398">11:44 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">12:24 </td>
+  <td class="xl703398">12:44 </td>
+  <td class="xl703398">13:04 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:42 </td>
+  <td class="xl703398">14:07 </td>
+  <td class="xl703398">14:21 </td>
+  <td class="xl703398">14:34 </td>
+  <td class="xl703398">14:50 </td>
+  <td class="xl1403398">15:01 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">15:08 </td>
+  <td class="xl703398">15:16 </td>
+  <td class="xl703398">15:30 </td>
+  <td class="xl703398">15:47 </td>
+  <td class="xl703398">16:00 </td>
+  <td class="xl703398">16:14 </td>
+  <td class="xl703398">16:24 </td>
+  <td class="xl703398">16:32 </td>
+  <td class="xl703398">16:42 </td>
+  <td class="xl1403398">16:48 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">16:56 </td>
+  <td class="xl703398">17:07 </td>
+  <td class="xl703398">17:20 </td>
+  <td class="xl703398">17:26 </td>
+  <td class="xl703398">17:39 </td>
+  <td class="xl703398">17:45 </td>
+  <td class="xl703398">17:57 </td>
+  <td class="xl1143398">18:04 </td>
+  <td class="xl703398">18:12 </td>
+  <td class="xl1403398">18:23 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl703398">18:38 </td>
+  <td class="xl703398">18:50 </td>
+  <td class="xl703398">19:04 </td>
+  <td class="xl703398">19:22 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:54 </td>
+  <td class="xl703398">20:29 </td>
+  <td class="xl703398">20:54 </td>
+  <td class="xl703398">21:39 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl823398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">05:36 </td>
+  <td class="xl713398">05:51 </td>
+  <td class="xl713398">06:08 </td>
+  <td class="xl713398">06:16 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">06:36 </td>
+  <td class="xl713398">06:42 </td>
+  <td class="xl713398">06:53 </td>
+  <td class="xl713398">07:00 </td>
+  <td class="xl1413398">07:10 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">07:17 </td>
+  <td class="xl713398">07:27 </td>
+  <td class="xl1153398">07:33 </td>
+  <td class="xl713398">07:42 </td>
+  <td class="xl1153398">07:48 </td>
+  <td class="xl713398">07:58 </td>
+  <td class="xl713398">08:04 </td>
+  <td class="xl713398">08:12 </td>
+  <td class="xl713398">08:21 </td>
+  <td class="xl1413398">08:35 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">08:49 </td>
+  <td class="xl713398">09:06 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">09:37 </td>
+  <td class="xl713398">09:58 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">10:49 </td>
+  <td class="xl713398">11:14 </td>
+  <td class="xl713398">11:46 </td>
+  <td class="xl1413398">&nbsp;</td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">12:26 </td>
+  <td class="xl713398">12:46 </td>
+  <td class="xl713398">13:06 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">13:44 </td>
+  <td class="xl713398">14:09 </td>
+  <td class="xl713398">14:23 </td>
+  <td class="xl713398">14:36 </td>
+  <td class="xl713398">14:52 </td>
+  <td class="xl1413398">15:03 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">15:10 </td>
+  <td class="xl713398">15:18 </td>
+  <td class="xl713398">15:32 </td>
+  <td class="xl713398">15:49 </td>
+  <td class="xl713398">16:02 </td>
+  <td class="xl713398">16:16 </td>
+  <td class="xl713398">16:26 </td>
+  <td class="xl713398">16:34 </td>
+  <td class="xl713398">16:44 </td>
+  <td class="xl1413398">16:50 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">16:58 </td>
+  <td class="xl713398">17:09 </td>
+  <td class="xl713398">17:22 </td>
+  <td class="xl713398">17:28 </td>
+  <td class="xl713398">17:41 </td>
+  <td class="xl713398">17:47 </td>
+  <td class="xl713398">17:59 </td>
+  <td class="xl1153398">18:06 </td>
+  <td class="xl713398">18:14 </td>
+  <td class="xl1413398">18:25 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl713398">18:40 </td>
+  <td class="xl713398">18:52 </td>
+  <td class="xl713398">19:06 </td>
+  <td class="xl713398">19:24 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">19:56 </td>
+  <td class="xl713398">20:31 </td>
+  <td class="xl713398">20:56 </td>
+  <td class="xl713398">21:41 </td>
+  <td class="xl1413398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">05:38 </td>
+  <td class="xl703398">05:53 </td>
+  <td class="xl703398">06:10 </td>
+  <td class="xl703398">06:18 </td>
+  <td class="xl753398">Heath-</td>
+  <td class="xl703398">06:38 </td>
+  <td class="xl703398">06:44 </td>
+  <td class="xl703398">06:55 </td>
+  <td class="xl703398">07:02 </td>
+  <td class="xl1403398">07:12 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">07:19 </td>
+  <td class="xl703398">07:29 </td>
+  <td class="xl1143398">07:35 </td>
+  <td class="xl703398">07:44 </td>
+  <td class="xl1143398">07:50 </td>
+  <td class="xl703398">08:00 </td>
+  <td class="xl703398">08:06 </td>
+  <td class="xl703398">08:14 </td>
+  <td class="xl703398">08:23 </td>
+  <td class="xl1403398">08:37 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">08:51 </td>
+  <td class="xl703398">09:08 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:39 </td>
+  <td class="xl703398">10:00 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:51 </td>
+  <td class="xl703398">11:16 </td>
+  <td class="xl703398">11:48 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">12:28 </td>
+  <td class="xl703398">12:48 </td>
+  <td class="xl703398">13:08 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:46 </td>
+  <td class="xl703398">14:11 </td>
+  <td class="xl703398">14:25 </td>
+  <td class="xl703398">14:38 </td>
+  <td class="xl703398">14:54 </td>
+  <td class="xl1403398">15:05 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">15:12 </td>
+  <td class="xl703398">15:20 </td>
+  <td class="xl703398">15:34 </td>
+  <td class="xl703398">15:51 </td>
+  <td class="xl703398">16:04 </td>
+  <td class="xl703398">16:18 </td>
+  <td class="xl703398">16:28 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:46 </td>
+  <td class="xl1403398">16:52 </td>
+  <td class="xl1943398" style="border-top:none;border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">17:00 </td>
+  <td class="xl703398">17:11 </td>
+  <td class="xl703398">17:24 </td>
+  <td class="xl703398">17:30 </td>
+  <td class="xl703398">17:43 </td>
+  <td class="xl703398">17:49 </td>
+  <td class="xl703398">18:01 </td>
+  <td class="xl1143398">18:08 </td>
+  <td class="xl703398">18:16 </td>
+  <td class="xl1403398">18:27 </td>
+  <td class="xl1943398" style="border-top:none;border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl703398">18:42 </td>
+  <td class="xl703398">18:54 </td>
+  <td class="xl703398">19:08 </td>
+  <td class="xl703398">19:26 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:58 </td>
+  <td class="xl703398">20:33 </td>
+  <td class="xl703398">20:58 </td>
+  <td class="xl703398">21:43 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">05:40 </td>
+  <td class="xl703398">05:55 </td>
+  <td class="xl703398">06:12 </td>
+  <td class="xl703398">06:20 </td>
+  <td class="xl753398">field</td>
+  <td class="xl893398">06:40 </td>
+  <td class="xl703398" style="border-left:none">06:46 </td>
+  <td class="xl703398">06:57 </td>
+  <td class="xl703398">07:04 </td>
+  <td class="xl1403398">07:14 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl893398">07:21 </td>
+  <td class="xl703398" style="border-left:none">07:31 </td>
+  <td class="xl1143398">07:37 </td>
+  <td class="xl703398">07:46 </td>
+  <td class="xl1143398">07:52 </td>
+  <td class="xl703398">08:02 </td>
+  <td class="xl703398">08:08 </td>
+  <td class="xl703398">08:16 </td>
+  <td class="xl703398">08:25 </td>
+  <td class="xl1403398">08:39 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">08:53 </td>
+  <td class="xl703398">09:10 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:41 </td>
+  <td class="xl703398">10:02 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:53 </td>
+  <td class="xl703398">11:18 </td>
+  <td class="xl703398">11:50 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">12:30 </td>
+  <td class="xl703398">12:50 </td>
+  <td class="xl703398">13:10 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:48 </td>
+  <td class="xl703398">14:13 </td>
+  <td class="xl703398">14:27 </td>
+  <td class="xl703398">14:40 </td>
+  <td class="xl703398">14:56 </td>
+  <td class="xl1403398">15:07 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">15:14 </td>
+  <td class="xl703398">15:22 </td>
+  <td class="xl703398">15:36 </td>
+  <td class="xl703398">15:53 </td>
+  <td class="xl703398">16:06 </td>
+  <td class="xl703398">16:20 </td>
+  <td class="xl703398">16:30 </td>
+  <td class="xl703398">16:37 </td>
+  <td class="xl703398">16:48 </td>
+  <td class="xl1403398">16:54 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">17:02 </td>
+  <td class="xl703398">17:13 </td>
+  <td class="xl703398">17:26 </td>
+  <td class="xl703398">17:32 </td>
+  <td class="xl703398">17:45 </td>
+  <td class="xl703398">17:51 </td>
+  <td class="xl703398">18:03 </td>
+  <td class="xl1143398">18:10 </td>
+  <td class="xl703398">18:18 </td>
+  <td class="xl1403398">18:29 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl703398">18:44 </td>
+  <td class="xl703398">18:56 </td>
+  <td class="xl703398">19:10 </td>
+  <td class="xl703398">19:28 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:00 </td>
+  <td class="xl703398">20:35 </td>
+  <td class="xl703398">21:00 </td>
+  <td class="xl703398">21:45 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">05:42 </td>
+  <td class="xl703398">05:57 </td>
+  <td class="xl703398">06:14 </td>
+  <td class="xl703398">06:22 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:48 </td>
+  <td class="xl703398">06:59 </td>
+  <td class="xl703398">07:06 </td>
+  <td class="xl1403398">07:16 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:33 </td>
+  <td class="xl1143398">07:39 </td>
+  <td class="xl703398">07:48 </td>
+  <td class="xl1143398">07:54 </td>
+  <td class="xl703398">08:04 </td>
+  <td class="xl703398">08:10 </td>
+  <td class="xl703398">08:18 </td>
+  <td class="xl703398">08:27 </td>
+  <td class="xl1403398">08:41 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">08:55 </td>
+  <td class="xl703398">09:12 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:43 </td>
+  <td class="xl703398">10:04 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:55 </td>
+  <td class="xl703398">11:20 </td>
+  <td class="xl703398">11:52 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">12:32 </td>
+  <td class="xl703398">12:52 </td>
+  <td class="xl703398">13:12 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:50 </td>
+  <td class="xl703398">14:15 </td>
+  <td class="xl703398">14:29 </td>
+  <td class="xl703398">14:42 </td>
+  <td class="xl703398">14:58 </td>
+  <td class="xl1403398">15:09 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">15:16 </td>
+  <td class="xl703398">15:24 </td>
+  <td class="xl703398">15:38 </td>
+  <td class="xl703398">15:55 </td>
+  <td class="xl703398">16:08 </td>
+  <td class="xl703398">16:22 </td>
+  <td class="xl703398">16:32 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:50 </td>
+  <td class="xl1403398">16:56 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">17:04 </td>
+  <td class="xl703398">17:15 </td>
+  <td class="xl703398">17:28 </td>
+  <td class="xl703398">17:34 </td>
+  <td class="xl703398">17:47 </td>
+  <td class="xl703398">17:53 </td>
+  <td class="xl703398">18:05 </td>
+  <td class="xl1143398">18:12 </td>
+  <td class="xl703398">18:20 </td>
+  <td class="xl1403398">18:31 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl703398">18:46 </td>
+  <td class="xl703398">18:58 </td>
+  <td class="xl703398">19:12 </td>
+  <td class="xl703398">19:30 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:02 </td>
+  <td class="xl703398">20:37 </td>
+  <td class="xl703398">21:02 </td>
+  <td class="xl703398">21:47 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">05:44 </td>
+  <td class="xl703398">05:59 </td>
+  <td class="xl703398">06:16 </td>
+  <td class="xl703398">06:24 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:50 </td>
+  <td class="xl703398">07:01 </td>
+  <td class="xl703398">07:08 </td>
+  <td class="xl1403398">07:18 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:35 </td>
+  <td class="xl1143398">07:41 </td>
+  <td class="xl703398">07:50 </td>
+  <td class="xl1143398">07:56 </td>
+  <td class="xl703398">08:06 </td>
+  <td class="xl703398">08:12 </td>
+  <td class="xl703398">08:20 </td>
+  <td class="xl703398">08:29 </td>
+  <td class="xl1403398">08:43 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">08:57 </td>
+  <td class="xl703398">09:14 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:45 </td>
+  <td class="xl703398">10:06 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:57 </td>
+  <td class="xl703398">11:22 </td>
+  <td class="xl703398">11:54 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">12:34 </td>
+  <td class="xl703398">12:54 </td>
+  <td class="xl703398">13:14 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:52 </td>
+  <td class="xl703398">14:17 </td>
+  <td class="xl703398">14:31 </td>
+  <td class="xl703398">14:44 </td>
+  <td class="xl703398">15:00 </td>
+  <td class="xl1403398">15:11 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">15:18 </td>
+  <td class="xl703398">15:26 </td>
+  <td class="xl703398">15:40 </td>
+  <td class="xl703398">15:57 </td>
+  <td class="xl703398">16:10 </td>
+  <td class="xl703398">16:24 </td>
+  <td class="xl703398">16:34 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">16:52 </td>
+  <td class="xl1403398">16:58 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">17:06 </td>
+  <td class="xl703398">17:17 </td>
+  <td class="xl703398">17:30 </td>
+  <td class="xl703398">17:36 </td>
+  <td class="xl703398">17:49 </td>
+  <td class="xl703398">17:55 </td>
+  <td class="xl703398">18:07 </td>
+  <td class="xl1143398">18:14 </td>
+  <td class="xl703398">18:22 </td>
+  <td class="xl1403398">18:33 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl703398">18:48 </td>
+  <td class="xl703398">19:00 </td>
+  <td class="xl703398">19:14 </td>
+  <td class="xl703398">19:32 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:04 </td>
+  <td class="xl703398">20:39 </td>
+  <td class="xl703398">21:04 </td>
+  <td class="xl703398">21:49 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">05:46 </td>
+  <td class="xl703398">06:01 </td>
+  <td class="xl703398">06:18 </td>
+  <td class="xl703398">06:26 </td>
+  <td class="xl703398">06:35 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:52 </td>
+  <td class="xl703398">07:03 </td>
+  <td class="xl703398">07:10 </td>
+  <td class="xl1403398">07:20 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:37 </td>
+  <td class="xl1143398">07:43 </td>
+  <td class="xl703398">07:52 </td>
+  <td class="xl1143398">07:58 </td>
+  <td class="xl703398">08:08 </td>
+  <td class="xl703398">08:14 </td>
+  <td class="xl703398">08:22 </td>
+  <td class="xl703398">08:31 </td>
+  <td class="xl1403398">08:45 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">08:59 </td>
+  <td class="xl703398">09:16 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:47 </td>
+  <td class="xl703398">10:08 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:59 </td>
+  <td class="xl703398">11:24 </td>
+  <td class="xl703398">11:56 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">12:36 </td>
+  <td class="xl703398">12:56 </td>
+  <td class="xl703398">13:16 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:54 </td>
+  <td class="xl703398">14:19 </td>
+  <td class="xl703398">14:33 </td>
+  <td class="xl703398">14:46 </td>
+  <td class="xl703398">15:02 </td>
+  <td class="xl1403398">15:13 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">15:20 </td>
+  <td class="xl703398">15:28 </td>
+  <td class="xl703398">15:42 </td>
+  <td class="xl703398">15:59 </td>
+  <td class="xl703398">16:12 </td>
+  <td class="xl703398">16:26 </td>
+  <td class="xl703398">16:36 </td>
+  <td class="xl703398">16:40 </td>
+  <td class="xl703398">16:54 </td>
+  <td class="xl1403398">17:00 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">17:08 </td>
+  <td class="xl703398">17:19 </td>
+  <td class="xl703398">17:32 </td>
+  <td class="xl703398">17:38 </td>
+  <td class="xl703398">17:51 </td>
+  <td class="xl703398">17:57 </td>
+  <td class="xl703398">18:09 </td>
+  <td class="xl1143398">18:16 </td>
+  <td class="xl703398">18:24 </td>
+  <td class="xl1253398">18:35 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl703398">18:50 </td>
+  <td class="xl1253398">19:02 </td>
+  <td class="xl703398" style="border-left:none">19:16 </td>
+  <td class="xl1253398">19:34 </td>
+  <td class="xl1253398" style="border-left:none">&nbsp;</td>
+  <td class="xl1253398" style="border-left:none">20:06 </td>
+  <td class="xl703398" style="border-left:none">20:41 </td>
+  <td class="xl703398">21:06 </td>
+  <td class="xl703398">21:51 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl823398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">05:49 </td>
+  <td class="xl713398">06:04 </td>
+  <td class="xl713398">06:21 </td>
+  <td class="xl713398">06:29 </td>
+  <td class="xl713398">06:38 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">06:55 </td>
+  <td class="xl713398">07:06 </td>
+  <td class="xl713398">07:13 </td>
+  <td class="xl1413398">07:23 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl1163398">07:40 </td>
+  <td class="xl713398" style="border-left:none">07:46 </td>
+  <td class="xl713398">07:55 </td>
+  <td class="xl713398">08:01 </td>
+  <td class="xl713398">08:11 </td>
+  <td class="xl713398">08:17 </td>
+  <td class="xl713398">08:25 </td>
+  <td class="xl713398">08:34 </td>
+  <td class="xl1413398">08:48 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">09:02 </td>
+  <td class="xl713398">09:19 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">09:50 </td>
+  <td class="xl713398">10:11 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">11:02 </td>
+  <td class="xl713398">11:27 </td>
+  <td class="xl713398">11:59 </td>
+  <td class="xl1413398">&nbsp;</td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">12:39 </td>
+  <td class="xl713398">12:59 </td>
+  <td class="xl713398">13:19 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">13:57 </td>
+  <td class="xl713398">14:22 </td>
+  <td class="xl713398">14:36 </td>
+  <td class="xl713398">14:49 </td>
+  <td class="xl713398">15:05 </td>
+  <td class="xl1413398">15:16 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">15:23 </td>
+  <td class="xl713398">15:31 </td>
+  <td class="xl713398">15:45 </td>
+  <td class="xl713398">16:02 </td>
+  <td class="xl713398">16:15 </td>
+  <td class="xl713398">16:29 </td>
+  <td class="xl713398">16:39 </td>
+  <td class="xl713398">16:43 </td>
+  <td class="xl713398">16:57 </td>
+  <td class="xl1413398">17:03 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">17:11 </td>
+  <td class="xl713398">17:22 </td>
+  <td class="xl713398">17:35 </td>
+  <td class="xl713398">17:41 </td>
+  <td class="xl713398">17:54 </td>
+  <td class="xl713398">18:00 </td>
+  <td class="xl713398">18:12 </td>
+  <td class="xl1153398">18:19 </td>
+  <td class="xl713398">18:27 </td>
+  <td class="xl1413398">18:38 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl713398">18:53 </td>
+  <td class="xl713398">19:05 </td>
+  <td class="xl713398">19:19 </td>
+  <td class="xl713398">19:37 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">20:09 </td>
+  <td class="xl713398">20:44 </td>
+  <td class="xl713398">21:09 </td>
+  <td class="xl713398">21:54 </td>
+  <td class="xl1413398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl703398">05:52 </td>
+  <td class="xl703398">06:07 </td>
+  <td class="xl703398">06:24 </td>
+  <td class="xl703398">06:32 </td>
+  <td class="xl703398">06:41 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">06:58 </td>
+  <td class="xl703398">07:09 </td>
+  <td class="xl703398">07:16 </td>
+  <td class="xl1403398">07:26 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:43 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">07:58 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:14 </td>
+  <td class="xl703398">08:20 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:37 </td>
+  <td class="xl1403398">08:51 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl703398">09:05 </td>
+  <td class="xl703398">09:22 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:53 </td>
+  <td class="xl703398">10:14 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:05 </td>
+  <td class="xl703398">11:30 </td>
+  <td class="xl703398">12:02 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl703398">12:42 </td>
+  <td class="xl703398">13:02 </td>
+  <td class="xl703398">13:22 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:00 </td>
+  <td class="xl703398">14:25 </td>
+  <td class="xl703398">14:39 </td>
+  <td class="xl703398">14:52 </td>
+  <td class="xl703398">15:08 </td>
+  <td class="xl1403398">15:19 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:34 </td>
+  <td class="xl703398">15:48 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:18 </td>
+  <td class="xl703398">16:32 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:46 </td>
+  <td class="xl703398">17:00 </td>
+  <td class="xl1813398" style="border-top:none">17:06 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl703398">17:14 </td>
+  <td class="xl703398">17:25 </td>
+  <td class="xl703398">17:38 </td>
+  <td class="xl703398">17:44 </td>
+  <td class="xl703398">17:57 </td>
+  <td class="xl703398">18:03 </td>
+  <td class="xl703398">18:15 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:30 </td>
+  <td class="xl1813398" style="border-top:none">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl703398">18:56 </td>
+  <td class="xl703398">19:08 </td>
+  <td class="xl703398">19:22 </td>
+  <td class="xl703398">19:40 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:12 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:12 </td>
+  <td class="xl703398">21:57 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl703398">05:54 </td>
+  <td class="xl703398">06:09 </td>
+  <td class="xl703398">06:26 </td>
+  <td class="xl703398">06:34 </td>
+  <td class="xl703398">06:43 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:00 </td>
+  <td class="xl703398">07:11 </td>
+  <td class="xl703398">07:18 </td>
+  <td class="xl1403398">07:28 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:45 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:00 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:16 </td>
+  <td class="xl703398">08:22 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:39 </td>
+  <td class="xl1403398">08:53 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl703398">09:07 </td>
+  <td class="xl703398">09:24 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:55 </td>
+  <td class="xl703398">10:16 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:07 </td>
+  <td class="xl703398">11:32 </td>
+  <td class="xl703398">12:04 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl703398">12:44 </td>
+  <td class="xl703398">13:04 </td>
+  <td class="xl703398">13:24 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:02 </td>
+  <td class="xl703398">14:27 </td>
+  <td class="xl703398">14:41 </td>
+  <td class="xl703398">14:54 </td>
+  <td class="xl703398">15:10 </td>
+  <td class="xl1403398">15:21 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:36 </td>
+  <td class="xl703398">15:50 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:20 </td>
+  <td class="xl703398">16:34 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:48 </td>
+  <td class="xl703398">17:02 </td>
+  <td class="xl1403398">17:08 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl703398">17:16 </td>
+  <td class="xl703398">17:27 </td>
+  <td class="xl703398">17:40 </td>
+  <td class="xl703398">17:46 </td>
+  <td class="xl703398">17:59 </td>
+  <td class="xl703398">18:05 </td>
+  <td class="xl703398">18:17 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:32 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl703398">18:58 </td>
+  <td class="xl703398">19:10 </td>
+  <td class="xl703398">19:24 </td>
+  <td class="xl703398">19:42 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:14 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:14 </td>
+  <td class="xl703398">21:59 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl703398">05:57 </td>
+  <td class="xl703398">06:12 </td>
+  <td class="xl703398">06:29 </td>
+  <td class="xl703398">06:37 </td>
+  <td class="xl703398">06:46 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:03 </td>
+  <td class="xl703398">07:14 </td>
+  <td class="xl703398">07:21 </td>
+  <td class="xl1403398">07:31 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:48 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:03 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:19 </td>
+  <td class="xl703398">08:25 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:42 </td>
+  <td class="xl1403398">08:56 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl703398">09:10 </td>
+  <td class="xl703398">09:27 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:58 </td>
+  <td class="xl703398">10:19 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:10 </td>
+  <td class="xl703398">11:35 </td>
+  <td class="xl703398">12:07 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl703398">12:47 </td>
+  <td class="xl703398">13:07 </td>
+  <td class="xl703398">13:27 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:05 </td>
+  <td class="xl703398">14:30 </td>
+  <td class="xl703398">14:44 </td>
+  <td class="xl703398">14:57 </td>
+  <td class="xl703398">15:13 </td>
+  <td class="xl1403398">15:24 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:39 </td>
+  <td class="xl703398">15:53 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:23 </td>
+  <td class="xl703398">16:37 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:51 </td>
+  <td class="xl703398">17:05 </td>
+  <td class="xl1403398">17:11 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl703398">17:19 </td>
+  <td class="xl703398">17:30 </td>
+  <td class="xl703398">17:43 </td>
+  <td class="xl703398">17:49 </td>
+  <td class="xl703398">18:02 </td>
+  <td class="xl703398">18:08 </td>
+  <td class="xl703398">18:20 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:35 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl703398">19:01 </td>
+  <td class="xl703398">19:13 </td>
+  <td class="xl703398">19:27 </td>
+  <td class="xl703398">19:45 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:17 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:17 </td>
+  <td class="xl703398">22:02 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl703398">05:58 </td>
+  <td class="xl703398">06:13 </td>
+  <td class="xl703398">06:30 </td>
+  <td class="xl703398">06:38 </td>
+  <td class="xl703398">06:47 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:04 </td>
+  <td class="xl703398">07:15 </td>
+  <td class="xl703398">07:22 </td>
+  <td class="xl1403398">07:32 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:49 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:04 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:20 </td>
+  <td class="xl703398">08:26 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:43 </td>
+  <td class="xl1403398">08:57 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl703398">09:11 </td>
+  <td class="xl703398">09:28 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">09:59 </td>
+  <td class="xl703398">10:20 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:11 </td>
+  <td class="xl703398">11:36 </td>
+  <td class="xl703398">12:08 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl703398">12:48 </td>
+  <td class="xl703398">13:08 </td>
+  <td class="xl703398">13:28 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:06 </td>
+  <td class="xl703398">14:31 </td>
+  <td class="xl703398">14:45 </td>
+  <td class="xl703398">14:58 </td>
+  <td class="xl703398">15:14 </td>
+  <td class="xl1403398">15:25 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:40 </td>
+  <td class="xl703398">15:54 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:24 </td>
+  <td class="xl703398">16:38 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:52 </td>
+  <td class="xl703398">17:06 </td>
+  <td class="xl1403398">17:12 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl703398">17:20 </td>
+  <td class="xl703398">17:31 </td>
+  <td class="xl703398">17:44 </td>
+  <td class="xl703398">17:50 </td>
+  <td class="xl703398">18:03 </td>
+  <td class="xl703398">18:09 </td>
+  <td class="xl703398">18:21 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:36 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl703398">19:02 </td>
+  <td class="xl703398">19:14 </td>
+  <td class="xl703398">19:28 </td>
+  <td class="xl703398">19:46 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:18 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:18 </td>
+  <td class="xl703398">22:03 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl703398">06:01 </td>
+  <td class="xl703398">06:16 </td>
+  <td class="xl703398">06:33 </td>
+  <td class="xl703398">06:41 </td>
+  <td class="xl703398">06:50 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:07 </td>
+  <td class="xl703398">07:18 </td>
+  <td class="xl703398">07:25 </td>
+  <td class="xl1403398">07:35 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:52 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:07 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:23 </td>
+  <td class="xl703398">08:29 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:46 </td>
+  <td class="xl1403398">09:00 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl703398">09:14 </td>
+  <td class="xl703398">09:31 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:02 </td>
+  <td class="xl703398">10:23 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:14 </td>
+  <td class="xl703398">11:39 </td>
+  <td class="xl703398">12:11 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl703398">12:51 </td>
+  <td class="xl703398">13:11 </td>
+  <td class="xl703398">13:31 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:09 </td>
+  <td class="xl703398">14:34 </td>
+  <td class="xl703398">14:48 </td>
+  <td class="xl703398">15:01 </td>
+  <td class="xl703398">15:17 </td>
+  <td class="xl1403398">15:28 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:43 </td>
+  <td class="xl703398">15:57 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:27 </td>
+  <td class="xl703398">16:41 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:55 </td>
+  <td class="xl703398">17:09 </td>
+  <td class="xl1403398">17:15 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl703398">17:23 </td>
+  <td class="xl703398">17:34 </td>
+  <td class="xl703398">17:47 </td>
+  <td class="xl703398">17:53 </td>
+  <td class="xl703398">18:06 </td>
+  <td class="xl703398">18:12 </td>
+  <td class="xl703398">18:24 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:39 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl703398">19:05 </td>
+  <td class="xl703398">19:17 </td>
+  <td class="xl703398">19:31 </td>
+  <td class="xl703398">19:49 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:21 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:21 </td>
+  <td class="xl703398">22:06 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl703398">06:03 </td>
+  <td class="xl703398">06:18 </td>
+  <td class="xl703398">06:35 </td>
+  <td class="xl703398">06:43 </td>
+  <td class="xl703398">06:52 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:09 </td>
+  <td class="xl703398">07:20 </td>
+  <td class="xl703398">07:27 </td>
+  <td class="xl1403398">07:37 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">07:54 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:09 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:25 </td>
+  <td class="xl703398">08:31 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:48 </td>
+  <td class="xl1403398">09:02 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl703398">09:16 </td>
+  <td class="xl703398">09:33 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">10:04 </td>
+  <td class="xl703398">10:25 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">11:16 </td>
+  <td class="xl703398">11:41 </td>
+  <td class="xl703398">12:13 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl703398">12:53 </td>
+  <td class="xl703398">13:13 </td>
+  <td class="xl703398">13:33 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">14:11 </td>
+  <td class="xl703398">14:36 </td>
+  <td class="xl703398">14:50 </td>
+  <td class="xl703398">15:03 </td>
+  <td class="xl703398">15:19 </td>
+  <td class="xl1403398">15:30 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:45 </td>
+  <td class="xl703398">15:59 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:29 </td>
+  <td class="xl703398">16:43 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:57 </td>
+  <td class="xl703398">17:11 </td>
+  <td class="xl1403398">17:17 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl703398">17:25 </td>
+  <td class="xl703398">17:36 </td>
+  <td class="xl703398">17:49 </td>
+  <td class="xl703398">17:55 </td>
+  <td class="xl703398">18:08 </td>
+  <td class="xl703398">18:14 </td>
+  <td class="xl703398">18:26 </td>
+  <td class="xl1143398">&nbsp;</td>
+  <td class="xl703398">18:41 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl703398">19:07 </td>
+  <td class="xl703398">19:19 </td>
+  <td class="xl703398">19:33 </td>
+  <td class="xl703398">19:51 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">20:23 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">21:23 </td>
+  <td class="xl703398">22:08 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1653398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl1173398">06:08 </td>
+  <td class="xl1173398">06:23 </td>
+  <td class="xl1173398">06:40 </td>
+  <td class="xl1173398">06:48 </td>
+  <td class="xl1173398">06:57 </td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">07:14 </td>
+  <td class="xl1173398">07:25 </td>
+  <td class="xl1173398">07:32 </td>
+  <td class="xl1663398">07:42 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl1163398">07:59 </td>
+  <td class="xl1213398" style="border-left:none">&nbsp;</td>
+  <td class="xl713398">08:14 </td>
+  <td class="xl1213398">&nbsp;</td>
+  <td class="xl1163398">08:30 </td>
+  <td class="xl713398" style="border-left:none">08:36 </td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl713398">08:53 </td>
+  <td class="xl1413398">09:07 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl713398">09:21 </td>
+  <td class="xl713398">09:38 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">10:09 </td>
+  <td class="xl713398">10:30 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">11:21 </td>
+  <td class="xl713398">11:46 </td>
+  <td class="xl713398">12:18 </td>
+  <td class="xl1413398">&nbsp;</td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl713398">12:58 </td>
+  <td class="xl713398">13:18 </td>
+  <td class="xl713398">13:38 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">14:16 </td>
+  <td class="xl713398">14:41 </td>
+  <td class="xl713398">14:55 </td>
+  <td class="xl713398">15:08 </td>
+  <td class="xl713398">15:24 </td>
+  <td class="xl1413398">15:35 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl713398">15:50 </td>
+  <td class="xl713398">16:04 </td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl713398">16:34 </td>
+  <td class="xl713398">16:48 </td>
+  <td class="xl1203398">&nbsp;</td>
+  <td class="xl713398">17:02 </td>
+  <td class="xl713398">17:16 </td>
+  <td class="xl1413398">17:22 </td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl713398">17:30 </td>
+  <td class="xl713398">17:41 </td>
+  <td class="xl713398">17:54 </td>
+  <td class="xl713398">18:00 </td>
+  <td class="xl713398">18:13 </td>
+  <td class="xl713398">18:19 </td>
+  <td class="xl713398">18:31 </td>
+  <td class="xl1153398">&nbsp;</td>
+  <td class="xl713398">18:46 </td>
+  <td class="xl1413398">&nbsp;</td>
+  <td class="xl823398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl713398">19:12 </td>
+  <td class="xl713398">19:24 </td>
+  <td class="xl713398">19:38 </td>
+  <td class="xl713398">19:56 </td>
+  <td class="xl1333398">&nbsp;</td>
+  <td class="xl713398">20:28 </td>
+  <td class="xl713398">&nbsp;</td>
+  <td class="xl713398">21:28 </td>
+  <td class="xl713398">22:13 </td>
+  <td class="xl1413398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl703398">06:10 </td>
+  <td class="xl723398">&nbsp;</td>
+  <td class="xl723398" style="border-left:none">&nbsp;</td>
+  <td class="xl703398" style="border-left:none">06:50 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:27 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:01 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:34 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">09:09 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">09:43 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">10:32 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">11:23 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">12:20 </td>
+  <td class="xl1423398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl703398">13:00 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:40 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">14:18 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">14:57 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">15:37 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:10 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:50 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">17:24 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">18:02 </td>
+  <td class="xl703398">18:15 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">18:48 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:26 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">19:58 </td>
+  <td class="xl1323398">&nbsp;</td>
+  <td class="xl703398">20:30 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">21:30 </td>
+  <td class="xl703398">22:15 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl703398">06:15 </td>
+  <td class="xl723398">&nbsp;</td>
+  <td class="xl723398" style="border-left:none">&nbsp;</td>
+  <td class="xl703398" style="border-left:none">06:55 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:32 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:06 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:39 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">09:14 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">09:48 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">10:37 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">11:28 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">12:25 </td>
+  <td class="xl1423398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl703398">13:05 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:45 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">14:23 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:02 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">15:42 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:15 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:55 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">17:29 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">18:07 </td>
+  <td class="xl703398">18:20 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">18:53 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:31 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">20:03 </td>
+  <td class="xl1323398">&nbsp;</td>
+  <td class="xl703398">20:35 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">21:35 </td>
+  <td class="xl703398">22:20 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl793398" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl703398">06:20 </td>
+  <td class="xl723398">&nbsp;</td>
+  <td class="xl723398" style="border-left:none">&nbsp;</td>
+  <td class="xl703398" style="border-left:none">07:00 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">07:37 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">08:11 </td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">08:44 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl1403398">09:19 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">09:53 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">10:42 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">11:33 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">12:30 </td>
+  <td class="xl1423398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl703398">13:10 </td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">13:50 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">14:28 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">15:07 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">15:47 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">16:20 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">17:00 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1403398">17:34 </td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">18:12 </td>
+  <td class="xl703398">18:25 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl1123398">&nbsp;</td>
+  <td class="xl703398">18:58 </td>
+  <td class="xl1403398">&nbsp;</td>
+  <td class="xl793398" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl703398">&nbsp;</td>
+  <td class="xl703398">19:36 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">20:08 </td>
+  <td class="xl1323398">&nbsp;</td>
+  <td class="xl703398">20:40 </td>
+  <td class="xl693398">&nbsp;</td>
+  <td class="xl703398">21:40 </td>
+  <td class="xl703398">22:25 </td>
+  <td class="xl1403398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1673398" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1173398">&nbsp;</td>
+  <td class="xl1663398">&nbsp;</td>
+  <td class="xl1693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1703398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1703398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+  <td class="xl1693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+  <td class="xl1693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+  <td class="xl1693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+  <td class="xl1693398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1703398">&nbsp;</td>
+  <td class="xl1703398">&nbsp;</td>
+  <td class="xl1703398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+  <td class="xl1803398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398" style="border-left:none">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1183398">&nbsp;</td>
+  <td class="xl1713398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1823398" style="height:15.75pt;border-top:none" height="21">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1833398" style="border-top:none">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl953398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl1433398" style="border-top:none">&nbsp;</td>
+  <td class="xl953398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl1433398" style="border-top:none">&nbsp;</td>
+  <td class="xl1823398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl1273398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1273398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1303398" style="border-top:none">&nbsp;</td>
+  <td class="xl1893398" style="border-top:none">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1963398">&nbsp;</td>
+  <td class="xl1983398" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1583398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl963398" style="border-top:none">&nbsp;</td>
+  <td class="xl1433398" style="border-top:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl973398" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1843398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl683398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1903398">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1963398">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl973398" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1843398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1103398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl813398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+  <td class="xl973398" style="border-left:none">&nbsp;</td>
+  <td class="xl683398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl683398"></td>
+  <td class="xl683398"></td>
+  <td class="xl1903398">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1283398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1963398">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl733398"></td>
+  <td class="xl1563398">&nbsp;</td>
+ </tr>
+ <tr class="xl1493398" style="height:15.0pt" height="20">
+  <td class="xl1523398" style="height:15.0pt" height="20">&nbsp;</td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1853398">&nbsp;</td>
+  <td class="xl1873398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1513398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1513398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1533398">&nbsp;</td>
+  <td class="xl1523398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1533398">&nbsp;</td>
+  <td class="xl1523398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1533398">&nbsp;</td>
+  <td class="xl1523398" style="border-left:none">&nbsp;</td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1543398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1543398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1913398">&nbsp;</td>
+  <td class="xl1973398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1553398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1493398"></td>
+  <td class="xl1913398">&nbsp;</td>
+  <td class="xl1953398" style="border-left:none">&nbsp;</td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1503398"></td>
+  <td class="xl1853398">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1863398" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1443398">&nbsp;</td>
+  <td class="xl1863398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1883398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1883398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1443398">&nbsp;</td>
+  <td class="xl1033398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1443398">&nbsp;</td>
+  <td class="xl1033398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1443398">&nbsp;</td>
+  <td class="xl1863398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1923398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1923398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1933398">&nbsp;</td>
+  <td class="xl1863398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1923398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1933398">&nbsp;</td>
+  <td class="xl1863398" style="border-left:none">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl983398">&nbsp;</td>
+  <td class="xl1443398">&nbsp;</td>
+ </tr>
+ 
+ <tr style="display:none" height="0">
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:46pt" width="61"></td>
+ </tr>
+ 
+</tbody></table>
+
+</div>
+
+
+
+
+
+
+
+
+</body></html>

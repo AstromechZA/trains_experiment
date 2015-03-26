@@ -1,0 +1,1885 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="ProgId" content="Excel.Sheet">
+<meta name="Generator" content="Microsoft Excel 14">
+<link rel="File-List" href="http://www.capemetrorail.co.za/_timetables/2015_01_12/South/ST_CT_Sat_JAN_2015_files/filelist.xml">
+<style id="DOCS_CMR3-#233196-v1-SOUTHERN_LINES_POCKET_TIME-TABLE___Current_Service_6969_Styles">
+
+</style>
+</head>
+
+<body>
+
+
+
+
+
+
+
+<div id="DOCS_CMR3-#233196-v1-SOUTHERN_LINES_POCKET_TIME-TABLE___Current_Service_6969" x:publishsource="Excel" align="center">
+
+<table class="xl896969" style="border-collapse:collapse;table-layout:fixed;width:2052pt" width="2708" border="0" cellpadding="0" cellspacing="0">
+ <colgroup><col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt" width="137">
+ <col class="xl656969" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="10" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt" width="137">
+ <col class="xl656969" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="6" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt" width="137">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="5" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 5010;width:103pt" width="137">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;mso-width-alt:
+ 1974;width:41pt" width="54">
+ <col class="xl656969" style="mso-width-source:userset;
+ mso-width-alt:1974;width:41pt" span="8" width="54">
+ </colgroup><tbody><tr style="height:18.75pt" height="25">
+  <td class="xl1046969" style="height:18.75pt;width:103pt" height="25" width="137"><a name="RANGE!A1:AR39">&nbsp;</a></td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl966969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1046969" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl966969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1046969" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl966969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl1046969" style="border-left:none;width:103pt" width="137">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl856969" style="width:41pt" width="54">&nbsp;</td>
+  <td class="xl966969" style="width:41pt" width="54">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl976969" style="height:18.0pt" height="24">&nbsp;</td>
+  <td class="xl666969" colspan="8">SIMON`S TOWN - WYNBERG - CAPE TOWN</td>
+  <td class="xl666969"></td>
+  <td class="xl1056969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl666969" colspan="8">SIMON`S TOWN - WYNBERG - CAPE TOWN</td>
+  <td class="xl666969"></td>
+  <td class="xl1056969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl666969" colspan="8">SIMON`S TOWN - WYNBERG - CAPE TOWN</td>
+  <td class="xl666969"></td>
+  <td class="xl1056969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl666969" colspan="8">SIMON`S TOWN - WYNBERG - CAPE TOWN</td>
+  <td class="xl666969"></td>
+  <td class="xl1056969">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl976969" style="height:18.0pt" height="24">&nbsp;</td>
+  <td class="xl766969"></td>
+  <td class="xl666969"><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl986969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl766969"></td>
+  <td class="xl666969"><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl986969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl766969"></td>
+  <td class="xl666969"><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl986969">&nbsp;</td>
+  <td class="xl976969" style="border-left:none">&nbsp;</td>
+  <td class="xl766969"></td>
+  <td class="xl666969"><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl666969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl766969"></td>
+  <td class="xl986969">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl996969" style="height:18.0pt" height="24">SATURDAYS</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl1006969">&nbsp;</td>
+  <td class="xl996969" style="border-left:none">SATURDAYS</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl1006969">&nbsp;</td>
+  <td class="xl996969" style="border-left:none">SATURDAYS</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl1006969">&nbsp;</td>
+  <td class="xl996969" style="border-left:none">SATURDAYS</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl776969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl686969">&nbsp;</td>
+  <td class="xl1006969">&nbsp;</td>
+ </tr>
+ <tr style="height:18.0pt" height="24">
+  <td class="xl1096969" style="height:18.0pt;border-top:none" height="24">&nbsp;</td>
+  <td class="xl886969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl716969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl716969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl716969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl716969" style="border-top:none">&nbsp;</td>
+  <td class="xl1106969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1086969" style="border-left:none">&nbsp;</td>
+  <td class="xl886969" style="border-top:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl726969">&nbsp;</td>
+  <td class="xl726969">&nbsp;</td>
+  <td class="xl696969" style="border-top:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl1106969" style="border-top:none">&nbsp;</td>
+  <td class="xl1086969" style="border-left:none">&nbsp;</td>
+  <td class="xl886969" style="border-top:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl726969">&nbsp;</td>
+  <td class="xl726969">&nbsp;</td>
+  <td class="xl696969" style="border-top:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none">&nbsp;</td>
+  <td class="xl726969" style="border-left:none">&nbsp;</td>
+  <td class="xl1106969" style="border-top:none">&nbsp;</td>
+  <td class="xl1086969" style="border-left:none">&nbsp;</td>
+  <td class="xl726969">&nbsp;</td>
+  <td class="xl916969">&nbsp;</td>
+  <td class="xl696969" style="border-top:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl696969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl1106969" style="border-top:none;border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1116969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl786969" style="border-left:none">0100</td>
+  <td class="xl786969" style="border-left:none">0102</td>
+  <td class="xl786969" style="border-left:none">0104</td>
+  <td class="xl786969" style="border-left:none">0106</td>
+  <td class="xl786969" style="border-left:none">0108</td>
+  <td class="xl786969" style="border-left:none">0110</td>
+  <td class="xl786969" style="border-left:none">0112</td>
+  <td class="xl786969" style="border-left:none">0114</td>
+  <td class="xl786969" style="border-left:none">0116</td>
+  <td class="xl936969" style="border-left:none">0118</td>
+  <td class="xl826969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl796969">0120</td>
+  <td class="xl796969">0122</td>
+  <td class="xl796969">0124</td>
+  <td class="xl796969">0126</td>
+  <td class="xl796969">0128</td>
+  <td class="xl796969">0130</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">0134</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl936969">0138</td>
+  <td class="xl826969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">0142</td>
+  <td class="xl796969">0144</td>
+  <td class="xl796969">0146</td>
+  <td class="xl796969">0148</td>
+  <td class="xl796969">0150</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">0154</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl936969">0158</td>
+  <td class="xl826969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>TRAIN NO.</td>
+  <td class="xl796969">0160</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">0164</td>
+  <td class="xl796969">0166</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl796969">&nbsp;</td>
+  <td class="xl786969">&nbsp;</td>
+  <td class="xl936969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl946969">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl946969">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl756969" style="border-left:none">04:25 </td>
+  <td class="xl756969" style="border-left:none">05:28 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:04 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:40 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">07:13 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">07:50 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">08:37 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">09:19 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">10:10 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">10:58 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl946969">11:50 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">12:38 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">13:58 </td>
+  <td class="xl736969">14:36 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">15:25 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl946969">16:21 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SIMON`S TOWN</td>
+  <td class="xl736969">17:14 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">17:57 </td>
+  <td class="xl736969">18:45 </td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl756969" style="border-left:none">04:30 </td>
+  <td class="xl756969" style="border-left:none">05:33 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:09 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:45 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">07:18 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">07:55 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">08:42 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">09:24 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">10:15 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">11:03 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969">11:55 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">12:43 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">14:03 </td>
+  <td class="xl756969" style="border-left:none">14:41 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">15:30 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969">16:26 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>GLENCAIRN</td>
+  <td class="xl756969">17:19 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">18:02 </td>
+  <td class="xl756969" style="border-left:none">18:50 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl756969" style="border-left:none">04:34 </td>
+  <td class="xl756969" style="border-left:none">05:37 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:13 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">06:49 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">07:22 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">07:59 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">08:46 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">09:28 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">10:19 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">11:07 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969">11:59 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">12:47 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">14:07 </td>
+  <td class="xl756969" style="border-left:none">14:45 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">15:34 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969">16:30 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SUNNY COVE</td>
+  <td class="xl756969">17:23 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969">18:06 </td>
+  <td class="xl756969" style="border-left:none">18:54 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1136969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl876969" style="border-left:none">04:37 </td>
+  <td class="xl876969" style="border-left:none">05:40 </td>
+  <td class="xl876969" style="border-left:none">05:58 </td>
+  <td class="xl876969" style="border-left:none">06:16 </td>
+  <td class="xl876969" style="border-left:none">06:31 </td>
+  <td class="xl876969" style="border-left:none">06:52 </td>
+  <td class="xl876969" style="border-left:none">07:05 </td>
+  <td class="xl876969" style="border-left:none">07:25 </td>
+  <td class="xl876969" style="border-left:none">07:40 </td>
+  <td class="xl956969" style="border-left:none">08:02 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl746969">08:19 </td>
+  <td class="xl876969">08:49 </td>
+  <td class="xl746969" style="border-left:none">09:08 </td>
+  <td class="xl876969">09:31 </td>
+  <td class="xl746969" style="border-left:none">09:56 </td>
+  <td class="xl876969">10:22 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969">11:10 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969">12:02 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl876969">12:50 </td>
+  <td class="xl746969" style="border-left:none">13:15 </td>
+  <td class="xl746969">13:43 </td>
+  <td class="xl876969">14:10 </td>
+  <td class="xl876969" style="border-left:none">14:48 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969">15:37 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969">16:33 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FISH HOEK</td>
+  <td class="xl876969">17:26 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969">18:17 </td>
+  <td class="xl876969" style="border-left:none">18:57 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl756969" style="border-left:none">04:41 </td>
+  <td class="xl756969" style="border-left:none">05:44 </td>
+  <td class="xl756969" style="border-left:none">06:02 </td>
+  <td class="xl756969" style="border-left:none">06:20 </td>
+  <td class="xl756969" style="border-left:none">06:35 </td>
+  <td class="xl756969" style="border-left:none">06:56 </td>
+  <td class="xl756969" style="border-left:none">07:09 </td>
+  <td class="xl756969" style="border-left:none">07:29 </td>
+  <td class="xl756969" style="border-left:none">07:44 </td>
+  <td class="xl946969" style="border-left:none">08:06 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl756969">08:23 </td>
+  <td class="xl756969" style="border-left:none">08:53 </td>
+  <td class="xl756969" style="border-left:none">09:12 </td>
+  <td class="xl756969" style="border-left:none">09:35 </td>
+  <td class="xl756969" style="border-left:none">10:00 </td>
+  <td class="xl756969" style="border-left:none">10:26 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:14 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:06 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:54 </td>
+  <td class="xl756969" style="border-left:none">13:19 </td>
+  <td class="xl756969" style="border-left:none">13:47 </td>
+  <td class="xl756969" style="border-left:none">14:14 </td>
+  <td class="xl756969" style="border-left:none">14:52 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:41 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:37 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KALK BAY</td>
+  <td class="xl756969">17:30 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:21 </td>
+  <td class="xl756969" style="border-left:none">19:01 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl756969" style="border-left:none">04:43 </td>
+  <td class="xl756969" style="border-left:none">05:46 </td>
+  <td class="xl756969" style="border-left:none">06:04 </td>
+  <td class="xl756969" style="border-left:none">06:22 </td>
+  <td class="xl756969" style="border-left:none">06:37 </td>
+  <td class="xl756969" style="border-left:none">06:58 </td>
+  <td class="xl756969" style="border-left:none">07:11 </td>
+  <td class="xl756969" style="border-left:none">07:31 </td>
+  <td class="xl756969" style="border-left:none">07:46 </td>
+  <td class="xl946969" style="border-left:none">08:08 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl756969">08:25 </td>
+  <td class="xl756969" style="border-left:none">08:55 </td>
+  <td class="xl756969" style="border-left:none">09:14 </td>
+  <td class="xl756969" style="border-left:none">09:37 </td>
+  <td class="xl756969" style="border-left:none">10:02 </td>
+  <td class="xl756969" style="border-left:none">10:28 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:16 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:08 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:56 </td>
+  <td class="xl756969" style="border-left:none">13:21 </td>
+  <td class="xl756969" style="border-left:none">13:49 </td>
+  <td class="xl756969" style="border-left:none">14:16 </td>
+  <td class="xl756969" style="border-left:none">14:54 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:43 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:39 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ST JAMES</td>
+  <td class="xl756969">17:32 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:23 </td>
+  <td class="xl756969" style="border-left:none">19:03 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl756969" style="border-left:none">04:46 </td>
+  <td class="xl756969" style="border-left:none">05:49 </td>
+  <td class="xl756969" style="border-left:none">06:07 </td>
+  <td class="xl756969" style="border-left:none">06:25 </td>
+  <td class="xl756969" style="border-left:none">06:40 </td>
+  <td class="xl756969" style="border-left:none">07:01 </td>
+  <td class="xl756969" style="border-left:none">07:14 </td>
+  <td class="xl756969" style="border-left:none">07:34 </td>
+  <td class="xl756969" style="border-left:none">07:49 </td>
+  <td class="xl946969" style="border-left:none">08:11 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl756969">08:28 </td>
+  <td class="xl756969" style="border-left:none">08:58 </td>
+  <td class="xl756969" style="border-left:none">09:17 </td>
+  <td class="xl756969" style="border-left:none">09:40 </td>
+  <td class="xl756969" style="border-left:none">10:05 </td>
+  <td class="xl756969" style="border-left:none">10:31 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:19 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:11 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:59 </td>
+  <td class="xl756969" style="border-left:none">13:24 </td>
+  <td class="xl756969" style="border-left:none">13:52 </td>
+  <td class="xl756969" style="border-left:none">14:19 </td>
+  <td class="xl756969" style="border-left:none">14:57 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:46 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:42 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MUIZENBERG</td>
+  <td class="xl756969">17:35 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:26 </td>
+  <td class="xl756969" style="border-left:none">19:06 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl756969" style="border-left:none">04:48 </td>
+  <td class="xl756969" style="border-left:none">05:51 </td>
+  <td class="xl756969" style="border-left:none">06:09 </td>
+  <td class="xl756969" style="border-left:none">06:27 </td>
+  <td class="xl756969" style="border-left:none">06:42 </td>
+  <td class="xl756969" style="border-left:none">07:03 </td>
+  <td class="xl756969" style="border-left:none">07:16 </td>
+  <td class="xl756969" style="border-left:none">07:36 </td>
+  <td class="xl756969" style="border-left:none">07:51 </td>
+  <td class="xl946969" style="border-left:none">08:13 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl756969">08:30 </td>
+  <td class="xl756969" style="border-left:none">09:00 </td>
+  <td class="xl756969" style="border-left:none">09:19 </td>
+  <td class="xl756969" style="border-left:none">09:42 </td>
+  <td class="xl756969" style="border-left:none">10:07 </td>
+  <td class="xl756969" style="border-left:none">10:33 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:21 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:13 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:01 </td>
+  <td class="xl756969" style="border-left:none">13:26 </td>
+  <td class="xl756969" style="border-left:none">13:54 </td>
+  <td class="xl756969" style="border-left:none">14:21 </td>
+  <td class="xl756969" style="border-left:none">14:59 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:48 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:44 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>FALSE BAY</td>
+  <td class="xl756969">17:37 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:28 </td>
+  <td class="xl756969" style="border-left:none">19:08 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl756969" style="border-left:none">04:50 </td>
+  <td class="xl756969" style="border-left:none">05:53 </td>
+  <td class="xl756969" style="border-left:none">06:11 </td>
+  <td class="xl756969" style="border-left:none">06:29 </td>
+  <td class="xl756969" style="border-left:none">06:44 </td>
+  <td class="xl756969" style="border-left:none">07:05 </td>
+  <td class="xl756969" style="border-left:none">07:18 </td>
+  <td class="xl756969" style="border-left:none">07:38 </td>
+  <td class="xl756969" style="border-left:none">07:53 </td>
+  <td class="xl946969" style="border-left:none">08:15 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl756969">08:32 </td>
+  <td class="xl756969" style="border-left:none">09:02 </td>
+  <td class="xl756969" style="border-left:none">09:21 </td>
+  <td class="xl756969" style="border-left:none">09:44 </td>
+  <td class="xl756969" style="border-left:none">10:09 </td>
+  <td class="xl756969" style="border-left:none">10:35 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:23 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:15 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:03 </td>
+  <td class="xl756969" style="border-left:none">13:28 </td>
+  <td class="xl756969" style="border-left:none">13:56 </td>
+  <td class="xl756969" style="border-left:none">14:23 </td>
+  <td class="xl756969" style="border-left:none">15:01 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:50 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:46 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>LAKESIDE</td>
+  <td class="xl756969">17:39 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:30 </td>
+  <td class="xl756969" style="border-left:none">19:10 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl756969" style="border-left:none">04:53 </td>
+  <td class="xl756969" style="border-left:none">05:56 </td>
+  <td class="xl756969" style="border-left:none">06:14 </td>
+  <td class="xl756969" style="border-left:none">06:32 </td>
+  <td class="xl756969" style="border-left:none">06:47 </td>
+  <td class="xl756969" style="border-left:none">07:08 </td>
+  <td class="xl756969" style="border-left:none">07:21 </td>
+  <td class="xl756969" style="border-left:none">07:41 </td>
+  <td class="xl756969" style="border-left:none">07:56 </td>
+  <td class="xl946969" style="border-left:none">08:18 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl756969">08:35 </td>
+  <td class="xl756969" style="border-left:none">09:05 </td>
+  <td class="xl756969" style="border-left:none">09:24 </td>
+  <td class="xl756969" style="border-left:none">09:47 </td>
+  <td class="xl756969" style="border-left:none">10:12 </td>
+  <td class="xl756969" style="border-left:none">10:38 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:26 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:18 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:06 </td>
+  <td class="xl756969" style="border-left:none">13:31 </td>
+  <td class="xl756969" style="border-left:none">13:59 </td>
+  <td class="xl756969" style="border-left:none">14:26 </td>
+  <td class="xl756969" style="border-left:none">15:04 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:53 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:49 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEENBERG</td>
+  <td class="xl756969">17:42 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:33 </td>
+  <td class="xl756969" style="border-left:none">19:13 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1136969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl876969" style="border-left:none">04:55 </td>
+  <td class="xl876969" style="border-left:none">05:58 </td>
+  <td class="xl876969" style="border-left:none">06:16 </td>
+  <td class="xl876969" style="border-left:none">06:34 </td>
+  <td class="xl876969" style="border-left:none">06:49 </td>
+  <td class="xl876969" style="border-left:none">07:10 </td>
+  <td class="xl876969" style="border-left:none">07:23 </td>
+  <td class="xl876969" style="border-left:none">07:43 </td>
+  <td class="xl876969" style="border-left:none">07:58 </td>
+  <td class="xl956969" style="border-left:none">08:20 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl876969">08:37 </td>
+  <td class="xl876969" style="border-left:none">09:07 </td>
+  <td class="xl876969" style="border-left:none">09:26 </td>
+  <td class="xl876969" style="border-left:none">09:49 </td>
+  <td class="xl876969" style="border-left:none">10:14 </td>
+  <td class="xl876969" style="border-left:none">10:40 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">11:28 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">12:20 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">13:08 </td>
+  <td class="xl876969" style="border-left:none">13:33 </td>
+  <td class="xl876969" style="border-left:none">14:01 </td>
+  <td class="xl876969" style="border-left:none">14:28 </td>
+  <td class="xl876969" style="border-left:none">15:06 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">15:55 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">16:51 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RETREAT</td>
+  <td class="xl876969">17:44 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">18:35 </td>
+  <td class="xl876969" style="border-left:none">19:15 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl756969" style="border-left:none">04:58 </td>
+  <td class="xl756969" style="border-left:none">06:01 </td>
+  <td class="xl756969" style="border-left:none">06:19 </td>
+  <td class="xl756969" style="border-left:none">06:37 </td>
+  <td class="xl756969" style="border-left:none">06:52 </td>
+  <td class="xl756969" style="border-left:none">07:13 </td>
+  <td class="xl756969" style="border-left:none">07:26 </td>
+  <td class="xl756969" style="border-left:none">07:46 </td>
+  <td class="xl756969" style="border-left:none">08:01 </td>
+  <td class="xl946969" style="border-left:none">08:23 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl756969">08:40 </td>
+  <td class="xl756969" style="border-left:none">09:10 </td>
+  <td class="xl756969" style="border-left:none">09:29 </td>
+  <td class="xl756969" style="border-left:none">09:52 </td>
+  <td class="xl756969" style="border-left:none">10:17 </td>
+  <td class="xl756969" style="border-left:none">10:43 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:31 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:23 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:11 </td>
+  <td class="xl756969" style="border-left:none">13:36 </td>
+  <td class="xl756969" style="border-left:none">14:04 </td>
+  <td class="xl756969" style="border-left:none">14:31 </td>
+  <td class="xl756969" style="border-left:none">15:09 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">15:58 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:54 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HEATHFIELD</td>
+  <td class="xl756969">17:47 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:38 </td>
+  <td class="xl756969" style="border-left:none">19:18 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl756969" style="border-left:none">05:00 </td>
+  <td class="xl756969" style="border-left:none">06:03 </td>
+  <td class="xl756969" style="border-left:none">06:21 </td>
+  <td class="xl756969" style="border-left:none">06:39 </td>
+  <td class="xl756969" style="border-left:none">06:54 </td>
+  <td class="xl756969" style="border-left:none">07:15 </td>
+  <td class="xl756969" style="border-left:none">07:28 </td>
+  <td class="xl756969" style="border-left:none">07:48 </td>
+  <td class="xl756969" style="border-left:none">08:03 </td>
+  <td class="xl946969" style="border-left:none">08:25 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl756969">08:42 </td>
+  <td class="xl756969" style="border-left:none">09:12 </td>
+  <td class="xl756969" style="border-left:none">09:31 </td>
+  <td class="xl756969" style="border-left:none">09:54 </td>
+  <td class="xl756969" style="border-left:none">10:19 </td>
+  <td class="xl756969" style="border-left:none">10:45 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:33 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:25 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:13 </td>
+  <td class="xl756969" style="border-left:none">13:38 </td>
+  <td class="xl756969" style="border-left:none">14:06 </td>
+  <td class="xl756969" style="border-left:none">14:33 </td>
+  <td class="xl756969" style="border-left:none">15:11 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:00 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:56 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>DIEPRIVIER</td>
+  <td class="xl756969">17:49 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:40 </td>
+  <td class="xl756969" style="border-left:none">19:20 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl756969" style="border-left:none">05:02 </td>
+  <td class="xl756969" style="border-left:none">06:05 </td>
+  <td class="xl756969" style="border-left:none">06:23 </td>
+  <td class="xl756969" style="border-left:none">06:41 </td>
+  <td class="xl756969" style="border-left:none">06:56 </td>
+  <td class="xl756969" style="border-left:none">07:17 </td>
+  <td class="xl756969" style="border-left:none">07:30 </td>
+  <td class="xl756969" style="border-left:none">07:50 </td>
+  <td class="xl756969" style="border-left:none">08:05 </td>
+  <td class="xl946969" style="border-left:none">08:27 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl756969">08:44 </td>
+  <td class="xl756969" style="border-left:none">09:14 </td>
+  <td class="xl756969" style="border-left:none">09:33 </td>
+  <td class="xl756969" style="border-left:none">09:56 </td>
+  <td class="xl756969" style="border-left:none">10:21 </td>
+  <td class="xl756969" style="border-left:none">10:47 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:35 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:27 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:15 </td>
+  <td class="xl756969" style="border-left:none">13:40 </td>
+  <td class="xl756969" style="border-left:none">14:08 </td>
+  <td class="xl756969" style="border-left:none">14:35 </td>
+  <td class="xl756969" style="border-left:none">15:13 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:02 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">16:58 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>STEURHOF</td>
+  <td class="xl756969">17:51 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:42 </td>
+  <td class="xl756969" style="border-left:none">19:22 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl756969" style="border-left:none">05:04 </td>
+  <td class="xl756969" style="border-left:none">06:07 </td>
+  <td class="xl756969" style="border-left:none">06:25 </td>
+  <td class="xl756969" style="border-left:none">06:43 </td>
+  <td class="xl756969" style="border-left:none">06:58 </td>
+  <td class="xl756969" style="border-left:none">07:19 </td>
+  <td class="xl756969" style="border-left:none">07:32 </td>
+  <td class="xl756969" style="border-left:none">07:52 </td>
+  <td class="xl756969" style="border-left:none">08:07 </td>
+  <td class="xl946969" style="border-left:none">08:29 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl756969">08:46 </td>
+  <td class="xl756969" style="border-left:none">09:16 </td>
+  <td class="xl756969" style="border-left:none">09:35 </td>
+  <td class="xl756969" style="border-left:none">09:58 </td>
+  <td class="xl756969" style="border-left:none">10:23 </td>
+  <td class="xl756969" style="border-left:none">10:49 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:37 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:29 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:17 </td>
+  <td class="xl756969" style="border-left:none">13:42 </td>
+  <td class="xl756969" style="border-left:none">14:10 </td>
+  <td class="xl756969" style="border-left:none">14:37 </td>
+  <td class="xl756969" style="border-left:none">15:15 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:04 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:00 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>PLUMSTEAD</td>
+  <td class="xl756969">17:53 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:44 </td>
+  <td class="xl756969" style="border-left:none">19:24 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl756969" style="border-left:none">05:06 </td>
+  <td class="xl756969" style="border-left:none">06:09 </td>
+  <td class="xl756969" style="border-left:none">06:27 </td>
+  <td class="xl756969" style="border-left:none">06:45 </td>
+  <td class="xl756969" style="border-left:none">07:00 </td>
+  <td class="xl756969" style="border-left:none">07:21 </td>
+  <td class="xl756969" style="border-left:none">07:34 </td>
+  <td class="xl756969" style="border-left:none">07:54 </td>
+  <td class="xl756969" style="border-left:none">08:09 </td>
+  <td class="xl946969" style="border-left:none">08:31 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl756969">08:48 </td>
+  <td class="xl756969" style="border-left:none">09:18 </td>
+  <td class="xl756969" style="border-left:none">09:37 </td>
+  <td class="xl756969" style="border-left:none">10:00 </td>
+  <td class="xl756969" style="border-left:none">10:25 </td>
+  <td class="xl756969" style="border-left:none">10:51 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:39 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:31 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:19 </td>
+  <td class="xl756969" style="border-left:none">13:44 </td>
+  <td class="xl756969" style="border-left:none">14:12 </td>
+  <td class="xl756969" style="border-left:none">14:39 </td>
+  <td class="xl756969" style="border-left:none">15:17 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:06 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:02 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WITTEBOME</td>
+  <td class="xl756969">17:55 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:46 </td>
+  <td class="xl756969" style="border-left:none">19:26 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1136969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl876969" style="border-left:none">05:08 </td>
+  <td class="xl876969" style="border-left:none">06:11 </td>
+  <td class="xl876969" style="border-left:none">06:29 </td>
+  <td class="xl876969" style="border-left:none">06:47 </td>
+  <td class="xl876969" style="border-left:none">07:02 </td>
+  <td class="xl876969" style="border-left:none">07:23 </td>
+  <td class="xl876969" style="border-left:none">07:36 </td>
+  <td class="xl876969" style="border-left:none">07:56 </td>
+  <td class="xl876969" style="border-left:none">08:11 </td>
+  <td class="xl956969" style="border-left:none">08:33 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl876969">08:50 </td>
+  <td class="xl876969" style="border-left:none">09:20 </td>
+  <td class="xl876969" style="border-left:none">09:39 </td>
+  <td class="xl876969" style="border-left:none">10:02 </td>
+  <td class="xl876969" style="border-left:none">10:27 </td>
+  <td class="xl876969" style="border-left:none">10:53 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">11:41 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">12:33 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">13:21 </td>
+  <td class="xl876969" style="border-left:none">13:46 </td>
+  <td class="xl876969" style="border-left:none">14:14 </td>
+  <td class="xl876969" style="border-left:none">14:41 </td>
+  <td class="xl876969" style="border-left:none">15:19 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">16:08 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">17:04 </td>
+  <td class="xl816969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WYNBERG</td>
+  <td class="xl876969">17:57 </td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">18:48 </td>
+  <td class="xl876969" style="border-left:none">19:28 </td>
+  <td class="xl746969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl756969" style="border-left:none">05:10 </td>
+  <td class="xl756969" style="border-left:none">06:13 </td>
+  <td class="xl756969" style="border-left:none">06:31 </td>
+  <td class="xl756969" style="border-left:none">06:49 </td>
+  <td class="xl756969" style="border-left:none">07:04 </td>
+  <td class="xl756969" style="border-left:none">07:25 </td>
+  <td class="xl756969" style="border-left:none">07:38 </td>
+  <td class="xl756969" style="border-left:none">07:58 </td>
+  <td class="xl756969" style="border-left:none">08:13 </td>
+  <td class="xl946969" style="border-left:none">08:35 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl756969">08:52 </td>
+  <td class="xl756969" style="border-left:none">09:22 </td>
+  <td class="xl756969" style="border-left:none">09:41 </td>
+  <td class="xl756969" style="border-left:none">10:04 </td>
+  <td class="xl756969" style="border-left:none">10:29 </td>
+  <td class="xl756969" style="border-left:none">10:55 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:43 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:35 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:23 </td>
+  <td class="xl756969" style="border-left:none">13:48 </td>
+  <td class="xl756969" style="border-left:none">14:16 </td>
+  <td class="xl756969" style="border-left:none">14:43 </td>
+  <td class="xl756969" style="border-left:none">15:21 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:10 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:06 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>KENILWORTH</td>
+  <td class="xl756969">17:59 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:50 </td>
+  <td class="xl756969" style="border-left:none">19:30 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl756969" style="border-left:none">05:12 </td>
+  <td class="xl756969" style="border-left:none">06:15 </td>
+  <td class="xl756969" style="border-left:none">06:33 </td>
+  <td class="xl756969" style="border-left:none">06:51 </td>
+  <td class="xl756969" style="border-left:none">07:06 </td>
+  <td class="xl756969" style="border-left:none">07:27 </td>
+  <td class="xl756969" style="border-left:none">07:40 </td>
+  <td class="xl756969" style="border-left:none">08:00 </td>
+  <td class="xl756969" style="border-left:none">08:15 </td>
+  <td class="xl946969" style="border-left:none">08:37 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl756969">08:54 </td>
+  <td class="xl756969" style="border-left:none">09:24 </td>
+  <td class="xl756969" style="border-left:none">09:43 </td>
+  <td class="xl756969" style="border-left:none">10:06 </td>
+  <td class="xl756969" style="border-left:none">10:31 </td>
+  <td class="xl756969" style="border-left:none">10:57 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:45 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:37 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:25 </td>
+  <td class="xl756969" style="border-left:none">13:50 </td>
+  <td class="xl756969" style="border-left:none">14:18 </td>
+  <td class="xl756969" style="border-left:none">14:45 </td>
+  <td class="xl756969" style="border-left:none">15:23 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:12 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:08 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>HARFIELD RD</td>
+  <td class="xl756969">18:01 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:52 </td>
+  <td class="xl756969" style="border-left:none">19:32 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl756969" style="border-left:none">05:14 </td>
+  <td class="xl756969" style="border-left:none">06:17 </td>
+  <td class="xl756969" style="border-left:none">06:35 </td>
+  <td class="xl756969" style="border-left:none">06:53 </td>
+  <td class="xl756969" style="border-left:none">07:08 </td>
+  <td class="xl756969" style="border-left:none">07:29 </td>
+  <td class="xl756969" style="border-left:none">07:42 </td>
+  <td class="xl756969" style="border-left:none">08:02 </td>
+  <td class="xl756969" style="border-left:none">08:17 </td>
+  <td class="xl946969" style="border-left:none">08:39 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl756969">08:56 </td>
+  <td class="xl756969" style="border-left:none">09:26 </td>
+  <td class="xl756969" style="border-left:none">09:45 </td>
+  <td class="xl756969" style="border-left:none">10:08 </td>
+  <td class="xl756969" style="border-left:none">10:33 </td>
+  <td class="xl756969" style="border-left:none">10:59 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:47 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:39 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:27 </td>
+  <td class="xl756969" style="border-left:none">13:52 </td>
+  <td class="xl756969" style="border-left:none">14:20 </td>
+  <td class="xl756969" style="border-left:none">14:47 </td>
+  <td class="xl756969" style="border-left:none">15:25 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:14 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:10 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CLAREMONT</td>
+  <td class="xl756969">18:03 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:54 </td>
+  <td class="xl756969" style="border-left:none">19:34 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl756969" style="border-left:none">05:16 </td>
+  <td class="xl756969" style="border-left:none">06:19 </td>
+  <td class="xl756969" style="border-left:none">06:37 </td>
+  <td class="xl756969" style="border-left:none">06:55 </td>
+  <td class="xl756969" style="border-left:none">07:10 </td>
+  <td class="xl756969" style="border-left:none">07:31 </td>
+  <td class="xl756969" style="border-left:none">07:44 </td>
+  <td class="xl756969" style="border-left:none">08:04 </td>
+  <td class="xl756969" style="border-left:none">08:19 </td>
+  <td class="xl946969" style="border-left:none">08:41 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl756969">08:58 </td>
+  <td class="xl756969" style="border-left:none">09:28 </td>
+  <td class="xl756969" style="border-left:none">09:47 </td>
+  <td class="xl756969" style="border-left:none">10:10 </td>
+  <td class="xl756969" style="border-left:none">10:35 </td>
+  <td class="xl756969" style="border-left:none">11:01 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:49 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:41 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:29 </td>
+  <td class="xl756969" style="border-left:none">13:54 </td>
+  <td class="xl756969" style="border-left:none">14:22 </td>
+  <td class="xl756969" style="border-left:none">14:49 </td>
+  <td class="xl756969" style="border-left:none">15:27 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:16 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:12 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>NEWLANDS</td>
+  <td class="xl756969">18:05 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:56 </td>
+  <td class="xl756969" style="border-left:none">19:36 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl756969" style="border-left:none">05:18 </td>
+  <td class="xl756969" style="border-left:none">06:21 </td>
+  <td class="xl756969" style="border-left:none">06:39 </td>
+  <td class="xl756969" style="border-left:none">06:57 </td>
+  <td class="xl756969" style="border-left:none">07:12 </td>
+  <td class="xl756969" style="border-left:none">07:33 </td>
+  <td class="xl756969" style="border-left:none">07:46 </td>
+  <td class="xl756969" style="border-left:none">08:06 </td>
+  <td class="xl756969" style="border-left:none">08:21 </td>
+  <td class="xl946969" style="border-left:none">08:43 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl756969">09:00 </td>
+  <td class="xl756969" style="border-left:none">09:30 </td>
+  <td class="xl756969" style="border-left:none">09:49 </td>
+  <td class="xl756969" style="border-left:none">10:12 </td>
+  <td class="xl756969" style="border-left:none">10:37 </td>
+  <td class="xl756969" style="border-left:none">11:03 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:51 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:43 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:31 </td>
+  <td class="xl756969" style="border-left:none">13:56 </td>
+  <td class="xl756969" style="border-left:none">14:24 </td>
+  <td class="xl756969" style="border-left:none">14:51 </td>
+  <td class="xl756969" style="border-left:none">15:29 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:18 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:14 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>RONDEBOSCH</td>
+  <td class="xl756969">18:07 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">18:58 </td>
+  <td class="xl756969" style="border-left:none">19:38 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl756969" style="border-left:none">05:20 </td>
+  <td class="xl756969" style="border-left:none">06:23 </td>
+  <td class="xl756969" style="border-left:none">06:41 </td>
+  <td class="xl756969" style="border-left:none">06:59 </td>
+  <td class="xl756969" style="border-left:none">07:14 </td>
+  <td class="xl756969" style="border-left:none">07:35 </td>
+  <td class="xl756969" style="border-left:none">07:48 </td>
+  <td class="xl756969" style="border-left:none">08:08 </td>
+  <td class="xl756969" style="border-left:none">08:23 </td>
+  <td class="xl946969" style="border-left:none">08:45 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl756969">09:02 </td>
+  <td class="xl756969" style="border-left:none">09:32 </td>
+  <td class="xl756969" style="border-left:none">09:51 </td>
+  <td class="xl756969" style="border-left:none">10:14 </td>
+  <td class="xl756969" style="border-left:none">10:39 </td>
+  <td class="xl756969" style="border-left:none">11:05 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:53 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:45 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:33 </td>
+  <td class="xl756969" style="border-left:none">13:58 </td>
+  <td class="xl756969" style="border-left:none">14:26 </td>
+  <td class="xl756969" style="border-left:none">14:53 </td>
+  <td class="xl756969" style="border-left:none">15:31 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:20 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:16 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>ROSEBANK</td>
+  <td class="xl756969">18:09 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:00 </td>
+  <td class="xl756969" style="border-left:none">19:40 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl756969" style="border-left:none">05:22 </td>
+  <td class="xl756969" style="border-left:none">06:25 </td>
+  <td class="xl756969" style="border-left:none">06:43 </td>
+  <td class="xl756969" style="border-left:none">07:01 </td>
+  <td class="xl756969" style="border-left:none">07:16 </td>
+  <td class="xl756969" style="border-left:none">07:37 </td>
+  <td class="xl756969" style="border-left:none">07:50 </td>
+  <td class="xl756969" style="border-left:none">08:10 </td>
+  <td class="xl756969" style="border-left:none">08:25 </td>
+  <td class="xl946969" style="border-left:none">08:47 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl756969">09:04 </td>
+  <td class="xl756969" style="border-left:none">09:34 </td>
+  <td class="xl756969" style="border-left:none">09:53 </td>
+  <td class="xl756969" style="border-left:none">10:16 </td>
+  <td class="xl756969" style="border-left:none">10:41 </td>
+  <td class="xl756969" style="border-left:none">11:07 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:55 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:47 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:35 </td>
+  <td class="xl756969" style="border-left:none">14:00 </td>
+  <td class="xl756969" style="border-left:none">14:28 </td>
+  <td class="xl756969" style="border-left:none">14:55 </td>
+  <td class="xl756969" style="border-left:none">15:33 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:22 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:18 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>MOWBRAY</td>
+  <td class="xl756969">18:11 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:02 </td>
+  <td class="xl756969" style="border-left:none">19:42 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl756969" style="border-left:none">05:24 </td>
+  <td class="xl756969" style="border-left:none">06:27 </td>
+  <td class="xl756969" style="border-left:none">06:45 </td>
+  <td class="xl756969" style="border-left:none">07:03 </td>
+  <td class="xl756969" style="border-left:none">07:18 </td>
+  <td class="xl756969" style="border-left:none">07:39 </td>
+  <td class="xl756969" style="border-left:none">07:52 </td>
+  <td class="xl756969" style="border-left:none">08:12 </td>
+  <td class="xl756969" style="border-left:none">08:27 </td>
+  <td class="xl946969" style="border-left:none">08:49 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl756969">09:06 </td>
+  <td class="xl756969" style="border-left:none">09:36 </td>
+  <td class="xl756969" style="border-left:none">09:55 </td>
+  <td class="xl756969" style="border-left:none">10:18 </td>
+  <td class="xl756969" style="border-left:none">10:43 </td>
+  <td class="xl756969" style="border-left:none">11:09 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">11:57 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:49 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:37 </td>
+  <td class="xl756969" style="border-left:none">14:02 </td>
+  <td class="xl756969" style="border-left:none">14:30 </td>
+  <td class="xl756969" style="border-left:none">14:57 </td>
+  <td class="xl756969" style="border-left:none">15:35 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:24 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:20 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>OBSERVATORY</td>
+  <td class="xl756969">18:13 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:04 </td>
+  <td class="xl756969" style="border-left:none">19:44 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl756969" style="border-left:none">05:27 </td>
+  <td class="xl756969" style="border-left:none">06:30 </td>
+  <td class="xl756969" style="border-left:none">06:48 </td>
+  <td class="xl756969" style="border-left:none">07:06 </td>
+  <td class="xl756969" style="border-left:none">07:21 </td>
+  <td class="xl756969" style="border-left:none">07:42 </td>
+  <td class="xl756969" style="border-left:none">07:55 </td>
+  <td class="xl756969" style="border-left:none">08:15 </td>
+  <td class="xl756969" style="border-left:none">08:30 </td>
+  <td class="xl946969" style="border-left:none">08:52 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl756969">09:09 </td>
+  <td class="xl756969" style="border-left:none">09:39 </td>
+  <td class="xl756969" style="border-left:none">09:58 </td>
+  <td class="xl756969" style="border-left:none">10:21 </td>
+  <td class="xl756969" style="border-left:none">10:46 </td>
+  <td class="xl756969" style="border-left:none">11:12 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:00 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:52 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:40 </td>
+  <td class="xl756969" style="border-left:none">14:05 </td>
+  <td class="xl756969" style="border-left:none">14:33 </td>
+  <td class="xl756969" style="border-left:none">15:00 </td>
+  <td class="xl756969" style="border-left:none">15:38 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:27 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:23 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>SALT RIVER</td>
+  <td class="xl756969">18:16 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:07 </td>
+  <td class="xl756969" style="border-left:none">19:47 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl756969" style="border-left:none">05:30 </td>
+  <td class="xl756969" style="border-left:none">06:33 </td>
+  <td class="xl756969" style="border-left:none">06:51 </td>
+  <td class="xl756969" style="border-left:none">07:09 </td>
+  <td class="xl756969" style="border-left:none">07:24 </td>
+  <td class="xl756969" style="border-left:none">07:45 </td>
+  <td class="xl756969" style="border-left:none">07:58 </td>
+  <td class="xl756969" style="border-left:none">08:18 </td>
+  <td class="xl756969" style="border-left:none">08:33 </td>
+  <td class="xl946969" style="border-left:none">08:55 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl756969">09:12 </td>
+  <td class="xl756969" style="border-left:none">09:42 </td>
+  <td class="xl756969" style="border-left:none">10:01 </td>
+  <td class="xl756969" style="border-left:none">10:24 </td>
+  <td class="xl756969" style="border-left:none">10:49 </td>
+  <td class="xl756969" style="border-left:none">11:15 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:03 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:55 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:43 </td>
+  <td class="xl756969" style="border-left:none">14:08 </td>
+  <td class="xl756969" style="border-left:none">14:36 </td>
+  <td class="xl756969" style="border-left:none">15:03 </td>
+  <td class="xl756969" style="border-left:none">15:41 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:30 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:26 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>WOODSTOCK</td>
+  <td class="xl756969">18:19 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:10 </td>
+  <td class="xl756969" style="border-left:none">19:50 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1126969" style="height:15.75pt" height="21"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl756969" style="border-left:none">05:33 </td>
+  <td class="xl756969" style="border-left:none">06:36 </td>
+  <td class="xl756969" style="border-left:none">06:54 </td>
+  <td class="xl756969" style="border-left:none">07:12 </td>
+  <td class="xl756969" style="border-left:none">07:27 </td>
+  <td class="xl756969" style="border-left:none">07:48 </td>
+  <td class="xl756969" style="border-left:none">08:01 </td>
+  <td class="xl756969" style="border-left:none">08:21 </td>
+  <td class="xl756969" style="border-left:none">08:36 </td>
+  <td class="xl946969" style="border-left:none">08:58 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl756969">09:15 </td>
+  <td class="xl756969" style="border-left:none">09:45 </td>
+  <td class="xl756969" style="border-left:none">10:04 </td>
+  <td class="xl756969" style="border-left:none">10:27 </td>
+  <td class="xl756969" style="border-left:none">10:52 </td>
+  <td class="xl756969" style="border-left:none">11:18 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">12:06 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">12:58 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">13:46 </td>
+  <td class="xl756969" style="border-left:none">14:11 </td>
+  <td class="xl756969" style="border-left:none">14:39 </td>
+  <td class="xl756969" style="border-left:none">15:06 </td>
+  <td class="xl756969" style="border-left:none">15:44 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">16:33 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">17:29 </td>
+  <td class="xl806969" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>CAPE TOWN</td>
+  <td class="xl756969">18:22 </td>
+  <td class="xl756969" style="border-left:none">&nbsp;</td>
+  <td class="xl756969" style="border-left:none">19:13 </td>
+  <td class="xl756969" style="border-left:none">19:53 </td>
+  <td class="xl736969" style="border-left:none">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl736969">&nbsp;</td>
+  <td class="xl756969">&nbsp;</td>
+  <td class="xl946969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl1146969" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl876969" style="border-left:none">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">&nbsp;</td>
+  <td class="xl1066969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl956969">&nbsp;</td>
+  <td class="xl1066969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl956969">&nbsp;</td>
+  <td class="xl1066969" style="border-left:none">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl746969">&nbsp;</td>
+  <td class="xl876969">&nbsp;</td>
+  <td class="xl956969" style="border-left:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl846969" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl1026969">&nbsp;</td>
+  <td class="xl846969" style="border-left:none">&nbsp;</td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl1026969">&nbsp;</td>
+  <td class="xl1076969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl1016969" style="border-top:none">&nbsp;</td>
+  <td class="xl1076969" style="border-top:none;border-left:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl836969" style="border-top:none">&nbsp;</td>
+  <td class="xl1016969" style="border-top:none">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl806969" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl1156969">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl706969"></td>
+  <td class="xl1026969">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl1156969">&nbsp;</td>
+  <td class="xl806969" style="border-left:none">&nbsp;</td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl676969"></td>
+  <td class="xl1156969">&nbsp;</td>
+ </tr>
+ <tr style="height:15.75pt" height="21">
+  <td class="xl926969" style="height:15.75pt" height="21">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl1166969">&nbsp;</td>
+  <td class="xl926969" style="border-left:none">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl866969">&nbsp;</td>
+  <td class="xl1036969">&nbsp;</td>
+  <td class="xl926969" style="border-left:none">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl1166969">&nbsp;</td>
+  <td class="xl926969" style="border-left:none">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl906969">&nbsp;</td>
+  <td class="xl1166969">&nbsp;</td>
+ </tr>
+ 
+ <tr style="display:none" height="0">
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:103pt" width="137"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+  <td style="width:41pt" width="54"></td>
+ </tr>
+ 
+</tbody></table>
+
+</div>
+
+
+
+
+
+
+
+
+</body></html>

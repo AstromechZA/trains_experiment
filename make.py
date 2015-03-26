@@ -100,6 +100,7 @@ def main():
     copy_files('stylesheets', '.css')
     compile_files('stylesheets', '.scss', parser.parse)
     copy_files('images')
+    copy_files('data')
 
 
 if __name__ == '__main__':

@@ -1,3 +1,4 @@
 hamlpy
 CoffeeScript
 scss
+beautifulsoup4
