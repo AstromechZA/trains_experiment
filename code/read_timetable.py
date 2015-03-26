@@ -1,6 +1,8 @@
 
 import os
 import re
+import json
+import time
 from bs4 import BeautifulSoup
 from collections import Counter
 
@@ -97,9 +99,23 @@ def collect_htmls(d):
     return map(lambda f: os.path.join(d, f), filter(lambda f: f.endswith('.htm.stripped'), os.listdir(d)))
 
 all_data = {}
+all_data['weekdays'] = []
+all_data['saturdays'] = []
+all_data['sundays'] = []
 
 for f in collect_htmls(data_dir):
     content = read_content(f)
-    all_data[f] = dostuff(content)
+    trains = dostuff(content)
 
-print all_data
+    fn = os.path.basename(f).lower()
+    if '_monfri_' in fn:
+        all_data['weekdays'] += trains
+    elif '_sat_' in fn:
+        all_data['saturdays'] += trains
+    elif '_sun_' in fn:
+        all_data['sundays'] += trains
+    else:
+        raise RuntimeError('Could not extract weekday from filename ' + fn)
+
+with open(os.path.join(data_dir, 'trains.{}.json'.format(int(time.time()))), 'w') as f:
+    f.write(json.dumps(all_data))
