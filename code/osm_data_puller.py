@@ -26,12 +26,16 @@ def main():
 
     # load rail data for cape town
 
+    bounds = '-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812'
+    bounds = '-33.856372,18.310666,-34.2213058,18.7786471'
+    bounds = '-34.2213058,18.310666,-33.856372,18.7786471'
+
     query = ('[out:json][timeout:25];'
              '('
-             'way["railway"](-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812);'
-             'node["railway"="station"](-34.087355326480655,18.369827270507812,-33.95076486932678,18.952102661132812);'
+             'way["railway"]({bounds});'
+             'node["railway"="station"]({bounds});'
              ');'
-             'out body;>;out skel qt;')
+             'out body;>;out skel qt;').format(bounds=bounds)
 
     rails_data = load_data(query)
 

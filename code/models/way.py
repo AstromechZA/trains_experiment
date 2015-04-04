@@ -55,4 +55,4 @@ class Way(object):
         if 'type' in obj and obj['type'] != 'way':
             raise ValueError("Object has incorrect type '%s'" % obj['type'])
 
-        return Way(obj['id'], obj['nodes'], obj['tags'])
+        return Way(obj['id'], obj['nodes'], obj.get('tags', []))

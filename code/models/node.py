@@ -45,4 +45,4 @@ class Node(Location):
         if 'type' in obj and obj['type'] != 'node':
             raise ValueError("Object has incorrect type '%s'" % obj['type'])
 
-        return Node(obj['id'], obj['lat'], obj['lon'], obj['tags'])
+        return Node(obj['id'], obj['lat'], obj['lon'], obj.get('tags', []))
