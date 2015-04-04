@@ -6,8 +6,7 @@ import time
 from bs4 import BeautifulSoup
 from collections import Counter
 
-directory = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-data_dir = os.path.join(directory, 'data')
+from constants import data_dir
 
 
 def read_content(p):
@@ -33,7 +32,6 @@ def find_trainnum_column(first_row):
     raise RuntimeError("Couldn't find train number.")
 
 
-
 def form_station_maps(first_column, nc):
     relrows = list([''] * (nc+1)) + list(first_column[nc+1:])
 
@@ -50,14 +48,14 @@ def form_station_maps(first_column, nc):
 def is_train_column(column):
     time_rows = 0
     for row in column:
-        if re.match(r'\d\d\:\d\d', row.strip()) is not None:
+        if re.match(r'\d\d:\d\d', row.strip()) is not None:
             time_rows += 1
     return time_rows > 2
 
 
 def get_time(cell):
     cell = cell.lower().strip()
-    if re.match(r'\d\d\:\d\d', cell) is not None:
+    if re.match(r'\d\d:\d\d', cell) is not None:
         return cell
     return None
 
@@ -82,7 +80,7 @@ def dostuff(content):
             train_number = column[trainnum_col]
             stops = []
 
-            for k,v in station_map.iteritems():
+            for k, v in station_map.iteritems():
                 t = get_time(column[k])
                 if t is not None:
                     stops += [[v, t]]
@@ -98,24 +96,26 @@ def dostuff(content):
 def collect_htmls(d):
     return map(lambda f: os.path.join(d, f), filter(lambda f: f.endswith('.htm.stripped'), os.listdir(d)))
 
-all_data = {}
-all_data['weekdays'] = []
-all_data['saturdays'] = []
-all_data['sundays'] = []
 
-for f in collect_htmls(data_dir):
-    content = read_content(f)
-    trains = dostuff(content)
+def main():
+    all_data = {'weekdays': [], 'saturdays': [], 'sundays': []}
 
-    fn = os.path.basename(f).lower()
-    if '_monfri_' in fn:
-        all_data['weekdays'] += trains
-    elif '_sat_' in fn:
-        all_data['saturdays'] += trains
-    elif '_sun_' in fn:
-        all_data['sundays'] += trains
-    else:
-        raise RuntimeError('Could not extract weekday from filename ' + fn)
+    for f in collect_htmls(data_dir):
+        content = read_content(f)
+        trains = dostuff(content)
 
-with open(os.path.join(data_dir, 'trains.{}.json'.format(int(time.time()))), 'w') as f:
-    f.write(json.dumps(all_data))
+        fn = os.path.basename(f).lower()
+        if '_monfri_' in fn:
+            all_data['weekdays'] += trains
+        elif '_sat_' in fn:
+            all_data['saturdays'] += trains
+        elif '_sun_' in fn:
+            all_data['sundays'] += trains
+        else:
+            raise RuntimeError('Could not extract weekday from filename ' + fn)
+
+    with open(os.path.join(data_dir, 'trains.{}.json'.format(int(time.time()))), 'w') as f:
+        f.write(json.dumps(all_data))
+
+if __name__ == "__main__":
+    main()
