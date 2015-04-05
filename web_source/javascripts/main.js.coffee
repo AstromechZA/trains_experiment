@@ -1,6 +1,6 @@
 
 window.train_markers = []
-window.current_time = (6 * 60 * 60)
+window.current_time = (5 * 60 * 60)
 
 window.drawline = (point_list) ->
   new google.maps.Polyline({
@@ -31,7 +31,7 @@ window.callback_data_loaded = ->
   for c in window.data_connections
     window.drawline [window.data_stations[c[0]], window.data_stations[c[1]]]
 
-  window.draw_current_state(window.current_time)
+  window.tick()
 
 
 window.draw_current_state = (time_now) ->
@@ -52,13 +52,21 @@ window.draw_current_state = (time_now) ->
 
 window.tick = ->
   window.current_time += 60
+  if window.current_time > (24 * 60 * 60)
+    window.current_time = 0
   window.draw_current_state(window.current_time)
+
+  hours = Math.floor(window.current_time / (60 * 60))
+  minutes = Math.floor((window.current_time % (60 * 60)) / 60)
+
+  document.getElementById('time-wrapper').innerHTML = "#{if hours < 10 then '0' else ''}#{hours}:#{if minutes < 10 then '0' else ''}#{minutes}"
 
 document.onkeydown = (e) ->
   e = e || window.event
   if e.which == 39
     window.tick()
     e.preventDefault()
+
 
 
 window.importjs = (path) ->
