@@ -53,7 +53,7 @@
       c = ref[i];
       window.drawline([window.data_stations[c[0]], window.data_stations[c[1]]]);
     }
-    return window.tick();
+    return window.tick_forward();
   };
 
   window.draw_current_state = function(time_now) {
@@ -89,7 +89,7 @@
     return results;
   };
 
-  window.tick = function() {
+  window.tick_forward = function() {
     var hours, minutes;
     window.current_time += 60;
     if (window.current_time > (24 * 60 * 60)) {
@@ -101,10 +101,26 @@
     return document.getElementById('time-wrapper').innerHTML = "" + (hours < 10 ? '0' : '') + hours + ":" + (minutes < 10 ? '0' : '') + minutes;
   };
 
+  window.tick_backward = function() {
+    var hours, minutes;
+    window.current_time -= 60;
+    if (window.current_time < (0 * 60 * 60)) {
+      window.current_time = 24 * 60 * 60;
+    }
+    window.draw_current_state(window.current_time);
+    hours = Math.floor(window.current_time / (60 * 60));
+    minutes = Math.floor((window.current_time % (60 * 60)) / 60);
+    return document.getElementById('time-wrapper').innerHTML = "" + (hours < 10 ? '0' : '') + hours + ":" + (minutes < 10 ? '0' : '') + minutes;
+  };
+
   document.onkeydown = function(e) {
     e = e || window.event;
     if (e.which === 39) {
-      window.tick();
+      window.tick_forward();
+      e.preventDefault();
+    }
+    if (e.which === 37) {
+      window.tick_backward();
       return e.preventDefault();
     }
   };
