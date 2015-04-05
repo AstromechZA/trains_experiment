@@ -1,19 +1,284 @@
-google.maps.event.addDomListener(window, 'load', init)
+(function() {
+  var init;
 
-function init() {
-    var mapOptions = {
-        zoom: 12,
-        center: new google.maps.LatLng(-33.9878033,18.5625039),
-        disableDefaultUI: true,
-        styles:
-        [{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#0c0b0b"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#090909"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#e4e4e4"}]},{"featureType":"road.highway","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.local","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"visibility":"on"},{"weight":"2.66"},{"color":"#bd3e3e"}]},{"featureType":"transit.line","elementType":"geometry.stroke","stylers":[{"weight":"0.01"},{"visibility":"off"}]},{"featureType":"transit.station","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"transit.station","elementType":"labels.icon","stylers":[{"visibility":"on"},{"weight":"1.00"},{"saturation":"-28"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#d4e4eb"},{"visibility":"on"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#fef7f7"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#9b7f7f"}]},{"featureType":"water","elementType":"labels.text.stroke","stylers":[{"color":"#fef7f7"}]}]
+  window.train_markers = [];
+
+  window.current_time = 5 * 60 * 60;
+
+  window.drawline = function(point_list) {
+    var p;
+    return new google.maps.Polyline({
+      path: (function() {
+        var i, len, results;
+        results = [];
+        for (i = 0, len = point_list.length; i < len; i++) {
+          p = point_list[i];
+          results.push(new google.maps.LatLng(p['lat'], p['lon']));
+        }
+        return results;
+      })(),
+      geodesic: true,
+      strokeColor: '#FF0000',
+      strokeOpacity: 1.0,
+      strokeWeight: 2,
+      map: window.map
+    });
+  };
+
+  window.drawpoint = function(point) {
+    return new google.maps.Marker({
+      position: new google.maps.LatLng(point['lat'], point['lon']),
+      map: window.map,
+      icon: {
+        url: 'images/dot_point.png',
+        anchor: new google.maps.Point(5, 6),
+        size: new google.maps.Size(11, 12)
+      }
+    });
+  };
+
+  window.interpolate_coords = function(point1, point2, ratio) {
+    ratio = Math.min(Math.max(0, ratio), 1);
+    return {
+      'lat': point1['lat'] + (point2['lat'] - point1['lat']) * ratio,
+      'lon': point1['lon'] + (point2['lon'] - point1['lon']) * ratio
+    };
+  };
+
+  window.callback_data_loaded = function() {
+    var c, i, len, ref;
+    console.log('data_loaded');
+    ref = window.data_connections;
+    for (i = 0, len = ref.length; i < len; i++) {
+      c = ref[i];
+      window.drawline([window.data_stations[c[0]], window.data_stations[c[1]]]);
     }
+    return window.tick();
+  };
 
-    var mapElement = document.getElementById('map');
-    var map = new google.maps.Map(mapElement, mapOptions);
-    var marker = new google.maps.Marker({
-        position: new google.maps.LatLng(-33.9878033,18.5625039),
-        map: map,
-        title: 'Snazzy!'
-    })
-}
+  window.draw_current_state = function(time_now) {
+    var i, j, last_stop, len, len1, p, r, ref, ref1, results, s, t;
+    ref = window.train_markers;
+    for (i = 0, len = ref.length; i < len; i++) {
+      p = ref[i];
+      p.setMap(null);
+    }
+    window.train_markers = [];
+    ref1 = window.data_trains['weekdays'];
+    results = [];
+    for (j = 0, len1 = ref1.length; j < len1; j++) {
+      t = ref1[j];
+      last_stop = null;
+      results.push((function() {
+        var k, len2, ref2, results1;
+        ref2 = t['stops'];
+        results1 = [];
+        for (k = 0, len2 = ref2.length; k < len2; k++) {
+          s = ref2[k];
+          if (last_stop != null) {
+            if (last_stop[1] < time_now && s[1] >= time_now) {
+              r = (time_now - last_stop[1]) / (s[1] - last_stop[1]);
+              window.train_markers.push(window.drawpoint(window.interpolate_coords(window.data_stations[last_stop[0]], window.data_stations[s[0]], r)));
+            }
+          }
+          results1.push(last_stop = s);
+        }
+        return results1;
+      })());
+    }
+    return results;
+  };
+
+  window.tick = function() {
+    var hours, minutes;
+    window.current_time += 60;
+    if (window.current_time > (24 * 60 * 60)) {
+      window.current_time = 0;
+    }
+    window.draw_current_state(window.current_time);
+    hours = Math.floor(window.current_time / (60 * 60));
+    minutes = Math.floor((window.current_time % (60 * 60)) / 60);
+    return document.getElementById('time-wrapper').innerHTML = "" + (hours < 10 ? '0' : '') + hours + ":" + (minutes < 10 ? '0' : '') + minutes;
+  };
+
+  document.onkeydown = function(e) {
+    e = e || window.event;
+    if (e.which === 39) {
+      window.tick();
+      return e.preventDefault();
+    }
+  };
+
+  window.importjs = function(path) {
+    var e;
+    e = document.createElement('script');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src', path);
+    console.log('Attempting to import ' + path);
+    document.getElementsByTagName('head')[0].appendChild(e);
+  };
+
+  init = function() {
+    var anchor, mapOptions;
+    anchor = new google.maps.LatLng(-33.9878033, 18.5625039);
+    mapOptions = {
+      zoom: 11,
+      center: anchor,
+      disableDefaultUI: true,
+      styles: [
+        {
+          "featureType": "all",
+          "elementType": "labels.text.fill",
+          "stylers": [
+            {
+              "saturation": 36
+            }, {
+              "color": "#333333"
+            }, {
+              "lightness": 40
+            }
+          ]
+        }, {
+          "featureType": "all",
+          "elementType": "labels.text.stroke",
+          "stylers": [
+            {
+              "visibility": "on"
+            }, {
+              "color": "#ffffff"
+            }, {
+              "lightness": 16
+            }
+          ]
+        }, {
+          "featureType": "all",
+          "elementType": "labels.icon",
+          "stylers": [
+            {
+              "visibility": "off"
+            }
+          ]
+        }, {
+          "featureType": "administrative",
+          "elementType": "geometry.fill",
+          "stylers": [
+            {
+              "color": "#fefefe"
+            }, {
+              "lightness": 20
+            }
+          ]
+        }, {
+          "featureType": "administrative",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+              "color": "#fefefe"
+            }, {
+              "lightness": 17
+            }, {
+              "weight": 1.2
+            }
+          ]
+        }, {
+          "featureType": "landscape",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#f5f5f5"
+            }, {
+              "lightness": 20
+            }
+          ]
+        }, {
+          "featureType": "poi",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#f5f5f5"
+            }, {
+              "lightness": 21
+            }
+          ]
+        }, {
+          "featureType": "poi.park",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#dedede"
+            }, {
+              "lightness": 21
+            }
+          ]
+        }, {
+          "featureType": "road.highway",
+          "elementType": "geometry.fill",
+          "stylers": [
+            {
+              "color": "#ffffff"
+            }, {
+              "lightness": 17
+            }
+          ]
+        }, {
+          "featureType": "road.highway",
+          "elementType": "geometry.stroke",
+          "stylers": [
+            {
+              "color": "#ffffff"
+            }, {
+              "lightness": 29
+            }, {
+              "weight": 0.2
+            }
+          ]
+        }, {
+          "featureType": "road.arterial",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#ffffff"
+            }, {
+              "lightness": 18
+            }
+          ]
+        }, {
+          "featureType": "road.local",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#ffffff"
+            }, {
+              "lightness": 16
+            }
+          ]
+        }, {
+          "featureType": "transit",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#f2f2f2"
+            }, {
+              "lightness": 19
+            }
+          ]
+        }, {
+          "featureType": "water",
+          "elementType": "geometry",
+          "stylers": [
+            {
+              "color": "#e9e9e9"
+            }, {
+              "lightness": 17
+            }
+          ]
+        }
+      ]
+    };
+    window.map = new google.maps.Map(document.getElementById('map'), mapOptions);
+    window.importjs('data/all_data.js');
+  };
+
+  google.maps.event.addDomListener(window, 'load', init);
+
+}).call(this);
