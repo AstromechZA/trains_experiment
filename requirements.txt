@@ -2,4 +2,4 @@ hamlpy
 CoffeeScript
 scss
 beautifulsoup4
-validoot==1.2
+validoot==1.3

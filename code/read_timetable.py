@@ -114,7 +114,7 @@ def main():
         else:
             raise RuntimeError('Could not extract weekday from filename ' + fn)
 
-    with open(os.path.join(data_dir, 'trains.{}.json'.format(int(time.time()))), 'w') as f:
+    with open(os.path.join(data_dir, 'train_times.json'.format()), 'w') as f:
         f.write(json.dumps(all_data))
 
 if __name__ == "__main__":
