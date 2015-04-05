@@ -31,7 +31,7 @@ window.callback_data_loaded = ->
   for c in window.data_connections
     window.drawline [window.data_stations[c[0]], window.data_stations[c[1]]]
 
-  window.tick()
+  window.tick_forward()
 
 
 window.draw_current_state = (time_now) ->
@@ -50,7 +50,7 @@ window.draw_current_state = (time_now) ->
       last_stop = s
 
 
-window.tick = ->
+window.tick_forward = ->
   window.current_time += 60
   if window.current_time > (24 * 60 * 60)
     window.current_time = 0
@@ -61,10 +61,27 @@ window.tick = ->
 
   document.getElementById('time-wrapper').innerHTML = "#{if hours < 10 then '0' else ''}#{hours}:#{if minutes < 10 then '0' else ''}#{minutes}"
 
+
+window.tick_backward = ->
+  window.current_time -= 60
+  if window.current_time < (0 * 60 * 60)
+    window.current_time = (24 * 60 * 60)
+  window.draw_current_state(window.current_time)
+
+  hours = Math.floor(window.current_time / (60 * 60))
+  minutes = Math.floor((window.current_time % (60 * 60)) / 60)
+
+  document.getElementById('time-wrapper').innerHTML = "#{if hours < 10 then '0' else ''}#{hours}:#{if minutes < 10 then '0' else ''}#{minutes}"
+
+
+
 document.onkeydown = (e) ->
   e = e || window.event
   if e.which == 39
-    window.tick()
+    window.tick_forward()
+    e.preventDefault()
+  if e.which == 37
+    window.tick_backward()
     e.preventDefault()
 
 
