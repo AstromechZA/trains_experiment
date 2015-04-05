@@ -1,3 +1,7 @@
+
+window.train_markers = []
+window.current_time = (6 * 60 * 60)
+
 window.drawline = (point_list) ->
   new google.maps.Polyline({
     path: (new google.maps.LatLng(p['lat'], p['lon']) for p in point_list),
@@ -15,9 +19,47 @@ window.drawpoint = (point) ->
     icon: {url: 'images/dot_point.png', anchor: new google.maps.Point(5, 6), size: new google.maps.Size(11, 12)}
   })
 
-window.drawme = (data) ->
-  window.drawpoint(p) for p in data['points']
-  window.drawline(l) for l in data['lines']
+window.interpolate_coords = (point1, point2, ratio) ->
+  ratio = Math.min(Math.max(0, ratio), 1)
+  return {
+    'lat': point1['lat'] + (point2['lat'] - point1['lat']) * ratio
+    'lon': point1['lon'] + (point2['lon'] - point1['lon']) * ratio
+  }
+
+window.callback_data_loaded = ->
+  console.log 'data_loaded'
+  for c in window.data_connections
+    window.drawline [window.data_stations[c[0]], window.data_stations[c[1]]]
+
+  window.draw_current_state(window.current_time)
+
+
+window.draw_current_state = (time_now) ->
+  for p in window.train_markers
+    p.setMap(null)
+
+  window.train_markers = []
+
+  for t in window.data_trains['weekdays']
+    last_stop = null
+    for s in t['stops']
+      if last_stop?
+        if last_stop[1] < time_now and s[1] >= time_now
+          r = (time_now - last_stop[1]) / (s[1] - last_stop[1])
+          window.train_markers.push(window.drawpoint window.interpolate_coords(window.data_stations[last_stop[0]], window.data_stations[s[0]], r))
+      last_stop = s
+
+
+window.tick = ->
+  window.current_time += 60
+  window.draw_current_state(window.current_time)
+
+document.onkeydown = (e) ->
+  e = e || window.event
+  if e.which == 39
+    window.tick()
+    e.preventDefault()
+
 
 window.importjs = (path) ->
   e = document.createElement 'script'
@@ -34,11 +76,11 @@ init = ->
     zoom: 11
     center: anchor
     disableDefaultUI: true
-    styles: [{"featureType":"administrative","elementType":"labels.text.fill","stylers":[{"color":"#0c0b0b"}]},{"featureType":"landscape","elementType":"all","stylers":[{"color":"#f2f2f2"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"road","elementType":"all","stylers":[{"saturation":-100},{"lightness":45}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#090909"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#e4e4e4"}]},{"featureType":"road.highway","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"road.arterial","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"road.local","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"transit.line","elementType":"geometry","stylers":[{"visibility":"on"},{"weight":"2.66"},{"color":"#bd3e3e"}]},{"featureType":"transit.line","elementType":"geometry.stroke","stylers":[{"weight":"0.01"},{"visibility":"off"}]},{"featureType":"transit.station","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"transit.station","elementType":"labels.icon","stylers":[{"visibility":"on"},{"weight":"1.00"},{"saturation":"-28"}]},{"featureType":"water","elementType":"all","stylers":[{"color":"#d4e4eb"},{"visibility":"on"}]},{"featureType":"water","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#fef7f7"}]},{"featureType":"water","elementType":"labels.text.fill","stylers":[{"color":"#9b7f7f"}]},{"featureType":"water","elementType":"labels.text.stroke","stylers":[{"color":"#fef7f7"}]}]
+    styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#333333"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#ffffff"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#fefefe"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#fefefe"},{"lightness":17},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":20}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#f5f5f5"},{"lightness":21}]},{"featureType":"poi.park","elementType":"geometry","stylers":[{"color":"#dedede"},{"lightness":21}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#ffffff"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#ffffff"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#ffffff"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#f2f2f2"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#e9e9e9"},{"lightness":17}]}]
 
   window.map = new google.maps.Map(document.getElementById('map'), mapOptions)
 
-  window.importjs 'data/drawme.js'
+  window.importjs 'data/all_data.js'
 
   return
 

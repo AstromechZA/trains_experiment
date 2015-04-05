@@ -106,6 +106,7 @@ if __name__ == '__main__':
     connections_json = [[c.frm, c.to] for c in connections]
 
     with open(os.path.join(project_root, 'web_source', 'data', 'all_data.js'), 'w') as f:
-        f.write('window.data_stations = %s;\n' % json.dumps(stations_json))
-        f.write('window.data_trains = %s;\n' % json.dumps(trains_json))
-        f.write('window.data_connections = %s;\n' % json.dumps(connections_json))
+        f.write('window.data_stations = %s\n' % json.dumps(stations_json))
+        f.write('window.data_trains = %s\n' % json.dumps(trains_json))
+        f.write('window.data_connections = %s\n' % json.dumps(connections_json))
+        f.write('window.callback_data_loaded()')
